@@ -1,0 +1,44 @@
+RiskMatrixCode,ProcedureCode,RiskCategory,RiskDetail,RiskDescriptor,RiskLikelihood,RiskConsequence,RiskLevel,RiskDefinition,RiskAction,RiskOutcome,Sequence
+RCLRA-CON-01,PEM-PROC-RA,Consequence,Evaluate the consequences of a risk occurring according to the ratings in the top row,,,,,,,,1
+RCLRA-CON-02,PEM-PROC-RA,Consequence,,Insignificant,,,1,No injury,,,2
+RCLRA-CON-03,PEM-PROC-RA,Consequence,,Minor,,,2,Injury/ill health requiring first aid,,,3
+RCLRA-CON-04,PEM-PROC-RA,Consequence,,Moderate,,,3,Injury/ill health requiring medical attention,,,4
+RCLRA-CON-05,PEM-PROC-RA,Consequence,,Major,,,4,Injury/ill health requiring hospital admission,,,5
+RCLRA-CON-06,PEM-PROC-RA,Consequence,,Severe,,,5,Fatality,,,6
+RCLRA-LIK-01,PEM-PROC-RA,Likelihood,Evaluate the likelihood of an incident occurring according to the ratings in the left hand column,,,,,,,,1
+RCLRA-LIK-02,PEM-PROC-RA,Likelihood,,Rare,,,1,"May occur somewhere, sometime (""once in a life time / once in a hundred years"")",,,2
+RCLRA-LIK-03,PEM-PROC-RA,Likelihood,,Unlikely,,,2,May occur somewhere within the Department over an extended period of time,,,3
+RCLRA-LIK-04,PEM-PROC-RA,Likelihood,,Possible,,,3,May occur several times across the Department or a region over a period of time,,,4
+RCLRA-LIK-05,PEM-PROC-RA,Likelihood,,Likely,,,4,May be anticipated multiple times over a period of time. May occur once every few repetitions of the activity or event,,,5
+RCLRA-LIK-06,PEM-PROC-RA,Likelihood,,Almost Certain,,,5,Prone to occur regularly. It is anticipated for each repetition of the activity or event,,,6
+RCLRA-LEV-01,PEM-PROC-RA,RiskLevel,Calculate the level of risk by finding the intersection between the likelihood and the consequences,,,,,,,,1
+RCLRA-LEV-02,PEM-PROC-RA,RiskLevel,,Almost Certain + Insignificant,Almost Certain,Insignificant,,,Medium,,2
+RCLRA-LEV-03,PEM-PROC-RA,RiskLevel,,Almost Certain + Minor,Almost Certain,Minor,,,High,,3
+RCLRA-LEV-04,PEM-PROC-RA,RiskLevel,,Almost Certain + Moderate,Almost Certain,Moderate,,,Extreme,,4
+RCLRA-LEV-05,PEM-PROC-RA,RiskLevel,,Almost Certain + Major,Almost Certain,Major,,,Extreme,,5
+RCLRA-LEV-06,PEM-PROC-RA,RiskLevel,,Almost Certain + Severe,Almost Certain,Severe,,,Extreme,,6
+RCLRA-LEV-07,PEM-PROC-RA,RiskLevel,,Likely + Insignificant,Likely,Insignificant,,,Medium,,7
+RCLRA-LEV-08,PEM-PROC-RA,RiskLevel,,Likely + Minor,Likely,Minor,,,Medium,,8
+RCLRA-LEV-09,PEM-PROC-RA,RiskLevel,,Likely + Moderate,Likely,Moderate,,,High,,9
+RCLRA-LEV-10,PEM-PROC-RA,RiskLevel,,Likely + Major,Likely,Major,,,Extreme,,10
+RCLRA-LEV-11,PEM-PROC-RA,RiskLevel,,Likely + Severe,Likely,Severe,,,Extreme,,11
+RCLRA-LEV-12,PEM-PROC-RA,RiskLevel,,Possible + Insignificant,Possible,Insignificant,,,Low,,12
+RCLRA-LEV-13,PEM-PROC-RA,RiskLevel,,Possible + Minor,Possible,Minor,,,Medium,,13
+RCLRA-LEV-14,PEM-PROC-RA,RiskLevel,,Possible + Moderate,Possible,Moderate,,,Medium,,14
+RCLRA-LEV-15,PEM-PROC-RA,RiskLevel,,Possible + Major,Possible,Major,,,High,,15
+RCLRA-LEV-16,PEM-PROC-RA,RiskLevel,,Possible + Severe,Possible,Severe,,,Extreme,,16
+RCLRA-LEV-17,PEM-PROC-RA,RiskLevel,,Unlikely + Insignificant,Unlikely,Insignificant,,,Low,,17
+RCLRA-LEV-18,PEM-PROC-RA,RiskLevel,,Unlikely + Minor,Unlikely,Minor,,,Low,,18
+RCLRA-LEV-19,PEM-PROC-RA,RiskLevel,,Unlikely + Moderate,Unlikely,Moderate,,,Medium,,19
+RCLRA-LEV-20,PEM-PROC-RA,RiskLevel,,Unlikely + Major,Unlikely,Major,,,Medium,,20
+RCLRA-LEV-21,PEM-PROC-RA,RiskLevel,,Unlikely + Severe,Unlikely,Severe,,,High,,21
+RCLRA-LEV-22,PEM-PROC-RA,RiskLevel,,Rare + Insignificant,Rare,Insignificant,,,Low,,22
+RCLRA-LEV-23,PEM-PROC-RA,RiskLevel,,Rare + Minor,Rare,Minor,,,Low,,23
+RCLRA-LEV-24,PEM-PROC-RA,RiskLevel,,Rare + Moderate,Rare,Moderate,,,Low,,24
+RCLRA-LEV-25,PEM-PROC-RA,RiskLevel,,Rare + Major,Rare,Major,,,Medium,,25
+RCLRA-LEV-26,PEM-PROC-RA,RiskLevel,,Rare + Severe,Rare,Severe,,,Medium,,26
+RCLRA-ACT-01,PEM-PROC-RA,Actions,Risk Level/Rating and Actions,,,,,,,,1
+RCLRA-ACT-02,PEM-PROC-RA,Actions,,,,,1,,Low,"Notify Nominated employee, HSR / OHS Committee. Nominated employee, HSR / OHS Committee is to follow up that corrective action is taken within a reasonable time.",2
+RCLRA-ACT-03,PEM-PROC-RA,Actions,,,,,2,,Medium,"Notify Nominated employee, HSR / OHS Committee. Nominated employee, OHS Representative / OHS Committee is to follow up that corrective action is taken within 7 days.",3
+RCLRA-ACT-04,PEM-PROC-RA,Actions,,,,,3,,High,Notify Workplace Manager and/or Management OHS Nominee immediately. Corrective actions should be taken within 48 hours of notification.,4
+RCLRA-ACT-05,PEM-PROC-RA,Actions,,,,,4,,Extreme,Notify Workplace Manager and/or Management OHS Nominee immediately. Corrective actions should be taken immediately. Cease associated activity.,5
