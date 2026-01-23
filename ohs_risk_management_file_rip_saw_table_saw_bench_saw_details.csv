@@ -1,0 +1,125 @@
+EquipmentCode,DocumentCategory,DocumentSubCategory,Comments,TrueFalseIndicator,RiskAssessmentConsequence,RiskAssessmentLikelihood,RiskAssessmentLevel,RiskDescription,ControlMeasures,Sequence
+PEM-EQ-CUT-025,Hazard Management Details – General - School Information,,,,,,,,,1
+PEM-EQ-CUT-025,Hazard Management Details – General - School Information,Plant/Equipment Item:,Rip Saw (Table Saw/Bench Saw),,,,,,,2
+PEM-EQ-CUT-025,Hazard Management Details – General - School Information,Make/Model No.:,,,,,,,,3
+PEM-EQ-CUT-025,Hazard Management Details – General - School Information,Serial No.:,,,,,,,,4
+PEM-EQ-CUT-025,Hazard Management Details – General - School Information,School / Work Location:,,,,,,,,5
+PEM-EQ-CUT-025,Hazard Management Details – General - School Information,Region:,,,,,,,,6
+PEM-EQ-CUT-025,Hazard Management Details – General - School Information,Name of Person(s) Conducting Activity:,,,,,,,,7
+PEM-EQ-CUT-025,Hazard Management Details – General - School Information,Date Conducted:,,,,,,,,8
+PEM-EQ-CUT-025,Hazard Management Details – General - Description of Use,Description of Use:,,,,,,,,1
+PEM-EQ-CUT-025,Hazard Management Details – General - Description of Use,Description of Use:,"A Rip saw is a specialised piece of woodworking equipment used to cut long boards to size.
+
+A top guard is installed and must be raised or lowered to allow access of the material through the rotating blade of the saw.
+
+A fence is also installed on the bench and can be adjusted to different distances from the blade allowing for a range of materials to be cut.",,,,,,,2
+PEM-EQ-CUT-025,Hazard Management Details – General - Key Risks,Summary of Key Risks:,,,,,,,,1
+PEM-EQ-CUT-025,Hazard Management Details – General - Key Risks,Summary of Key Risks:,Entanglement,,,,,,,2
+PEM-EQ-CUT-025,Hazard Management Details – General - Key Risks,Summary of Key Risks:,Impact and cutting,,,,,,,3
+PEM-EQ-CUT-025,Hazard Management Details – General - Key Risks,Summary of Key Risks:,Electricity,,,,,,,4
+PEM-EQ-CUT-025,Hazard Management Details – General - Key Risks,Summary of Key Risks:,Noise,,,,,,,5
+PEM-EQ-CUT-025,Hazard Management Details – General - Key Risks,Summary of Key Risks:,Slips/trips/falls,,,,,,,6
+PEM-EQ-CUT-025,Hazard Management Details – General - Key Risks,Summary of Key Risks:,Other (dust),,,,,,,7
+PEM-EQ-CUT-025,Documentation - Legislation Standards,Relevant Legislation/Standards,,,,,,,,1
+PEM-EQ-CUT-025,Documentation - Legislation Standards,Is plant required to be registered?,,FALSE,,,,,,2
+PEM-EQ-CUT-025,Documentation - Legislation Standards,Is a user license required?,,FALSE,,,,,,3
+PEM-EQ-CUT-025,Documentation - Legislation Standards,Key Reference material,AS 1473 Guarding and safe use of woodworking machinery,,,,,,,4
+PEM-EQ-CUT-025,Documentation - Legislation Standards,Key Reference material,AS 4024.1 Safety of machinery,,,,,,,5
+PEM-EQ-CUT-025,Documentation - Legislation Standards,Key Reference material,AS/NZS 3760 In service safety inspection and testing of electrical equipment,,,,,,,6
+PEM-EQ-CUT-025,Documentation - Plant,Plant Documentation,,,,,,,,1
+PEM-EQ-CUT-025,Documentation - Plant,Are operator’s manuals accessible?,,TRUE,,,,,,2
+PEM-EQ-CUT-025,Documentation - Plant,Is this a restricted use item?,,TRUE,,,,,,3
+PEM-EQ-CUT-025,Documentation - Plant,Does this item require safe use documents/test?,,TRUE,,,,,,4
+PEM-EQ-CUT-025,Hazards Inspected - Entanglement,Entanglement,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Entanglement,Entanglement,"Can anyone’s hair, clothing, gloves, cleaning brushes, tools, rags or other materials become entangled with moving parts of the plant or materials?",TRUE,Moderate,Possible,Medium,"Long hair, loose clothing, rags, cleaning brushes and jewellery could become entangled in the moving parts of the saw.","Ensure hair, loose clothing, rags and jewellery is kept clear of moving parts when in use.
+Aprons can be used to restrict loose clothing.
+Hair ties/hair nets can be used to secure long hair.
+Ensure inappropriate jewellery and accessories (e.g. bracelets) are not worn when operating equipment.
+
+Maintain red emergency stop button in good working order and ensure it is checked regularly as part of the maintenance schedule.",2
+PEM-EQ-CUT-025,Hazards Inspected - Impact and Cutting,Impact and Cutting,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Impact and Cutting,Impact and Cutting,Can anyone be crushed/cut/struck etc. due to:,,,,,The exposed moving saw blade presents a significant risk to an operator’s hands and body parts.,"Ensure operator’s hands and body parts are kept clear of moving saw blade during operation and maintenance.
+
+Ensure appropriate guarding is installed and in good working order prior to machine operation (e.g. side guard, fixed (hood) guarding to enclose non-cutting surface of the blade etc.).
+
+Ensure the equipment is appropriately installed and serviced regularly by a qualified technician.
+
+Ensure that the operator has been trained in safe work practices and appropriate PPE (e.g. eye protection) is worn during operation.",2
+PEM-EQ-CUT-025,Hazards Inspected - Impact and Cutting,Impact and Cutting,Material falling off the plant?,FALSE,,,,,,3
+PEM-EQ-CUT-025,Hazards Inspected - Impact and Cutting,Impact and Cutting,Uncontrolled/unexpected movement of plant/load?,FALSE,,,,,,4
+PEM-EQ-CUT-025,Hazards Inspected - Impact and Cutting,Impact and Cutting,"Lack of capacity to slow, stop or immobilise plant?",FALSE,,,,,,5
+PEM-EQ-CUT-025,Hazards Inspected - Impact and Cutting,Impact and Cutting,The plant tipping or rolling over?,FALSE,,,,,,6
+PEM-EQ-CUT-025,Hazards Inspected - Impact and Cutting,Impact and Cutting,Parts of the plant disintegrating or collapsing?,TRUE,Moderate,Rare,Low,,,7
+PEM-EQ-CUT-025,Hazards Inspected - Impact and Cutting,Impact and Cutting,"Contact with moving parts during testing, inspection, operation, maintenance, cleaning or repair?",TRUE,Major,Possible,High,,,8
+PEM-EQ-CUT-025,Hazards Inspected - Impact and Cutting,Impact and Cutting,Being thrown off or under the plant?,FALSE,,,,,,9
+PEM-EQ-CUT-025,Hazards Inspected - Impact and Cutting,Impact and Cutting,Contact with sharp or flying objects? (e.g. work pieces being ejected),TRUE,Moderate,Possible,Medium,,,10
+PEM-EQ-CUT-025,Hazards Inspected - Impact and Cutting,Impact and Cutting,The mobility of the plant?,FALSE,,,,,,11
+PEM-EQ-CUT-025,Hazards Inspected - Impact and Cutting,Impact and Cutting,Inappropriate parts and accessories being used?,FALSE,,,,,,12
+PEM-EQ-CUT-025,Hazards Inspected - Impact and Cutting,Impact and Cutting,Other,FALSE,,,,,,13
+PEM-EQ-CUT-025,Hazards Inspected - Shearing,Shearing,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Shearing,Shearing,"Can anyone’s body parts be sheared between two parts of plant, or between a part of the plant and a work piece or structure?",FALSE,,,,,,2
+PEM-EQ-CUT-025,Hazards Inspected - Pressurised Content,Pressurised Content,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Pressurised Content,Pressurised Content,"Can anyone come into contact with fluids or gases under high pressure, due to plant failure or misuse of the plant?",FALSE,,,,,,2
+PEM-EQ-CUT-025,Hazards Inspected - Electricity,Electricity,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Electricity,Electricity,Can anyone be injured or burnt due to:,,,,,Damaged or frayed electrical cords would pose an electrical hazard.,"Operator to check for damaged electrical cords prior to use.
+
+Ensure equipment is regularly serviced, tested and tagged and appropriate isolation procedures (i.e. lock out tags) are in place.",2
+PEM-EQ-CUT-025,Hazards Inspected - Electricity,Electricity,Live electrical conductors? (e.g. exposed wires),FALSE,,,,,,3
+PEM-EQ-CUT-025,Hazards Inspected - Electricity,Electricity,Working in close proximity to electrical conductors?,FALSE,,,,,,4
+PEM-EQ-CUT-025,Hazards Inspected - Electricity,Electricity,Access to electricity?,FALSE,,,,,,5
+PEM-EQ-CUT-025,Hazards Inspected - Electricity,Electricity,"Damaged or poorly maintained electrical leads, cables or switches?",TRUE,Major,Unlikely,Medium,,,6
+PEM-EQ-CUT-025,Hazards Inspected - Electricity,Electricity,Water near electrical equipment?,FALSE,,,,,,7
+PEM-EQ-CUT-025,Hazards Inspected - Electricity,Electricity,Lack of isolation procedures?,FALSE,,,,,,8
+PEM-EQ-CUT-025,Hazards Inspected - Electricity,Electricity,Other,FALSE,,,,,,9
+PEM-EQ-CUT-025,Hazards Inspected - Ergonomics,Ergonomics,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Ergonomics,Ergonomics,Can anyone be injured due to:,FALSE,,,,,,2
+PEM-EQ-CUT-025,Hazards Inspected - Ergonomics,Ergonomics,Poorly designed workstation?,FALSE,,,,,,3
+PEM-EQ-CUT-025,Hazards Inspected - Ergonomics,Ergonomics,Repetitive body movement?,FALSE,,,,,,4
+PEM-EQ-CUT-025,Hazards Inspected - Ergonomics,Ergonomics,Constrained body posture or the need for excessive effort?,FALSE,,,,,,5
+PEM-EQ-CUT-025,Hazards Inspected - Ergonomics,Ergonomics,Design deficiency causing psychological stress?,FALSE,,,,,,6
+PEM-EQ-CUT-025,Hazards Inspected - Ergonomics,Ergonomics,Inadequate or poorly placed lighting?,FALSE,,,,,,7
+PEM-EQ-CUT-025,Hazards Inspected - Ergonomics,Ergonomics,Does the plant impact on the surrounding workplace and create potential hazards? (Consider potential impact on the design and layout of the workplace),FALSE,,,,,,8
+PEM-EQ-CUT-025,Hazards Inspected - Ergonomics,Ergonomics,Is the location of the plant inappropriate? (Consider potential effects due to environmental conditions and terrain),FALSE,,,,,,9
+PEM-EQ-CUT-025,Hazards Inspected - Ergonomics,Ergonomics,Other,FALSE,,,,,,10
+PEM-EQ-CUT-025,Hazards Inspected - Radiation,Radiation,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Radiation,Radiation,"Can anyone using the plant, or in the vicinity of the plant suffer injury or illness due to exposure to radiation in the form of any of the following:
+• infra-red radiation
+• ultra violet light
+• microwaves",FALSE,,,,,,2
+PEM-EQ-CUT-025,Hazards Inspected - Noise,Noise,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Noise,Noise,"Can anyone using the plant, or in the vicinity of the plant, suffer injury due to exposure to noise?",TRUE,Moderate,Unlikely,Medium,Operation of the plant equipment can result in high noise levels.,"Ensure operator wears appropriate PPE (e.g. ear plugs, ear muffs) whilst operating the equipment.",2
+PEM-EQ-CUT-025,Hazards Inspected - Vibration,Vibration,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Vibration,Vibration,Can anyone be injured or suffer ill-health from exposure to vibration?,FALSE,,,,,,2
+PEM-EQ-CUT-025,Hazards Inspected - Friction,Friction,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Friction,Friction,"Can anyone be burnt due to contact with moving parts, materials or surfaces of the plant?",FALSE,,,,,,2
+PEM-EQ-CUT-025,Hazards Inspected - Suffocation,Suffocation,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Suffocation,Suffocation,"Can anyone be suffocated due to lack of oxygen, or atmospheric contamination?",FALSE,,,,,,2
+PEM-EQ-CUT-025,Hazards Inspected - Condition,Condition,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Condition,Condition,"Is a hazard likely due to the age and condition of the plant? (Consider how hard the machine has been worked, and whether it is used constantly or rarely).",FALSE,,,,,,2
+PEM-EQ-CUT-025,Hazards Inspected - Condition,Condition,Can anyone be injured as a result of the plant not serviced appropriately and/or maintained in line with manufacturer’s recommendations?,FALSE,,,,,,3
+PEM-EQ-CUT-025,Hazards Inspected - Slips/Trips/Falls,Slips/Trips/Falls,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Slips/Trips/Falls,Slips/Trips/Falls,"Can anyone using the plant, or in the vicinity of the plant, slip, trip or fall due to:",,,,,"Poor housekeeping allowing the build-up of waste materials or failure to immediately clean up spills could result in a slip hazard.
+
+Inappropriate placement of objects (e.g. electric cord, spare materials, bags, etc) in the immediate vicinity of the plant equipment may result in a trip hazard.","Ensure appropriate cleaning and housekeeping standards are maintained at all times to minimise the risk of a slip, trip or fall.",2
+PEM-EQ-CUT-025,Hazards Inspected - Slips/Trips/Falls,Slips/Trips/Falls,"Uneven, slippery or steep work surfaces?",FALSE,,,,,,3
+PEM-EQ-CUT-025,Hazards Inspected - Slips/Trips/Falls,Slips/Trips/Falls,"Poor housekeeping, e.g. spillage in the vicinity?",TRUE,Minor,Possible,Medium,,,4
+PEM-EQ-CUT-025,Hazards Inspected - Slips/Trips/Falls,Slips/Trips/Falls,Obstacles being placed in the vicinity of the plant?,TRUE,Minor,Possible,Medium,,,5
+PEM-EQ-CUT-025,Hazards Inspected - Slips/Trips/Falls,Slips/Trips/Falls,"Inappropriate or poorly maintained floor or walking surfaces (i.e. lack of a slip-resistant surface, unprotected holes, penetrations or gaps?)",FALSE,,,,,,6
+PEM-EQ-CUT-025,Hazards Inspected - Slips/Trips/Falls,Slips/Trips/Falls,"If operating or maintaining plant at height can anyone slip, trip or fall due to:",FALSE,,,,,,7
+PEM-EQ-CUT-025,Hazards Inspected - Slips/Trips/Falls,Slips/Trips/Falls,"Use of work platforms, stairs or ladders?",FALSE,,,,,,8
+PEM-EQ-CUT-025,Hazards Inspected - Slips/Trips/Falls,Slips/Trips/Falls,Lack of guardrails or other suitable edge protection?,FALSE,,,,,,9
+PEM-EQ-CUT-025,Hazards Inspected - Slips/Trips/Falls,Slips/Trips/Falls,Other,FALSE,,,,,,10
+PEM-EQ-CUT-025,Hazards Inspected - Fire and Explosion,Fire and Explosion,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Fire and Explosion,Fire and Explosion,Can anyone be injured by fire?,FALSE,,,,,,2
+PEM-EQ-CUT-025,Hazards Inspected - Fire and Explosion,Fire and Explosion,"Can anyone be injured by explosion of gases, vapours, liquids, dusts, or other substances?",FALSE,,,,,,3
+PEM-EQ-CUT-025,Hazards Inspected - Temperature/Moisture,Temperature/Moisture,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Temperature/Moisture,Temperature/Moisture,Can anyone come into contact with objects at high or low temperatures?,FALSE,,,,,,2
+PEM-EQ-CUT-025,Hazards Inspected - Temperature/Moisture,Temperature/Moisture,Can anyone suffer ill-health due to exposure to high or low temperatures?,FALSE,,,,,,3
+PEM-EQ-CUT-025,Hazards Inspected - Temperature/Moisture,Temperature/Moisture,Can anyone be injured or suffer ill-health due to exposure to moisture?,FALSE,,,,,,4
+PEM-EQ-CUT-025,Hazards Inspected - Other,Other,,,,,,,,1
+PEM-EQ-CUT-025,Hazards Inspected - Other,Other,Can anyone be injured or suffer ill-health from exposure to:,,,,,Dust generated from the work process may be hazardous to health.,"Ensure appropriate control measures are implemented
+(E.g. local exhaust system, face masks, good housekeeping practices etc.).",2
+PEM-EQ-CUT-025,Hazards Inspected - Other,Other,Chemicals?,FALSE,,,,,,3
+PEM-EQ-CUT-025,Hazards Inspected - Other,Other,Toxic gases or vapours?,FALSE,,,,,,4
+PEM-EQ-CUT-025,Hazards Inspected - Other,Other,Fumes/Dusts?,TRUE,Moderate,Unlikely,Medium,,,5
+PEM-EQ-CUT-025,Hazards Inspected - Other,Other,Other? (please specify),FALSE,,,,,,6

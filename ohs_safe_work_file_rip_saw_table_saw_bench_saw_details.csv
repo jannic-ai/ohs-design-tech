@@ -1,0 +1,31 @@
+EquipmentCode,DocumentCategory,DocumentSubCategory,HeaderDescription,TrueFalseIndicator,Comments,Sequence
+PEM-EQ-CUT-026,HEADER,,Description of Work:,,,1
+PEM-EQ-CUT-026,HEADER,,,,Using a Rip Saw,2
+PEM-EQ-CUT-026,HAZARD_SUMMARY,,Potential Hazards:,,,1
+PEM-EQ-CUT-026,HAZARD_SUMMARY,,,,"Exposed moving parts with the potential to cause harm through impact and cutting, entanglement, projectiles and sharp objects, exposure to noise, dust and slip trip and falls.",2
+PEM-EQ-CUT-026,PPE,,Personal Protective Equipment (PPE) Required (Check the box for required PPE),,,1
+PEM-EQ-CUT-026,PPE,,,FALSE,Gloves,2
+PEM-EQ-CUT-026,PPE,,,TRUE,Face Masks,3
+PEM-EQ-CUT-026,PPE,,,TRUE,Eye Protection,4
+PEM-EQ-CUT-026,PPE,,,FALSE,Welding Mask,5
+PEM-EQ-CUT-026,PPE,,,TRUE,Appropriate Footwear,6
+PEM-EQ-CUT-026,PPE,,,TRUE,Hearing Protection,7
+PEM-EQ-CUT-026,PPE,,,TRUE,Protective Clothing,8
+PEM-EQ-CUT-026,SWP,,Safe Work Procedure Checklist:,,,1
+PEM-EQ-CUT-026,PROCEDURE,PRE,PRE-Operation/Task:,,,1
+PEM-EQ-CUT-026,PROCEDURE,PRE,,,"Task (e.g. Drawings, instructions, specifications etc.) is clearly understood.",2
+PEM-EQ-CUT-026,PROCEDURE,PRE,,,"Ensure eye, hearing and clothing protection and appropriate footwear is worn prior to operation.",3
+PEM-EQ-CUT-026,PROCEDURE,PRE,,,Ensure guarding is in place.,4
+PEM-EQ-CUT-026,PROCEDURE,PRE,,,Ensure appropriate blade is used for the task.,5
+PEM-EQ-CUT-026,PROCEDURE,PRE,,,Ensure timber is in good condition and free from foreign material (such as nails).,6
+PEM-EQ-CUT-026,PROCEDURE,PRE,,,Turn on local exhaust system (if available).,7
+PEM-EQ-CUT-026,PROCEDURE,PRE,,,Identify ON/OFF switch and emergency stop button (if applicable).,8
+PEM-EQ-CUT-026,PROCEDURE,OPERATION,Operation/Task:,,,1
+PEM-EQ-CUT-026,PROCEDURE,OPERATION,,,Check that saw blade runs ‘true’ and does not wobble.,2
+PEM-EQ-CUT-026,PROCEDURE,OPERATION,,,Before making adjustments (e.g. guarding) switch off and bring the machine to a complete standstill.,3
+PEM-EQ-CUT-026,PROCEDURE,OPERATION,,,Keep hands clear of work piece and away from rotating blade.,4
+PEM-EQ-CUT-026,PROCEDURE,OPERATION,,,Ensure guarding is in place before the saw is re-started.,5
+PEM-EQ-CUT-026,PROCEDURE,OPERATION,,,Never leave the machine running unattended.,6
+PEM-EQ-CUT-026,PROCEDURE,POST,POST-Operation/Task:,,,1
+PEM-EQ-CUT-026,PROCEDURE,POST,,,Switch off saw before removing waste material (chips and shavings) from the saw table.,2
+PEM-EQ-CUT-026,PROCEDURE,POST,,,Ensure good housekeeping practices are in place to minimise dust build-up.,3
