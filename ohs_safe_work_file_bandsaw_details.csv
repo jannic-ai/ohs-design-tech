@@ -1,0 +1,20 @@
+EquipmentCode,DocumentCategory,DocumentSubCategory,HeaderDescription,Value,Comments,Sequence
+,,,Description of Work:,,,
+PEM-EQ-CUT-002,HAZARD_SUMMARY,,Using a Band Saw,,,1
+PEM-EQ-CUT-002,HAZARD_SUMMARY,,Potential Hazards:,,"Exposed moving parts and electrical hazard with the potential to cause harm through entanglement, cutting, and exposure to noise, dust, projectiles and sharp objects.",1
+PEM-EQ-CUT-002,PPE,,Personal Protective Equipment (PPE) Required (Check the box for required PPE),FALSE,Gloves,1
+PEM-EQ-CUT-002,PPE,,,TRUE,Face Masks,2
+PEM-EQ-CUT-002,PPE,,,TRUE,Eye Protection,3
+PEM-EQ-CUT-002,PPE,,,FALSE,Welding Mask,4
+PEM-EQ-CUT-002,PPE,,,TRUE,Appropriate Footwear,5
+PEM-EQ-CUT-002,PPE,,,TRUE,Hearing Protection,6
+PEM-EQ-CUT-002,PPE,,,TRUE,Protective Clothing,7
+PEM-EQ-CUT-002,SWP,,Safe Work Procedure Checklist:,,,1
+PEM-EQ-CUT-002,PROCEDURE,PRE,PRE-Operation/Task:,,Ensure guarding is in place.,1
+PEM-EQ-CUT-002,PROCEDURE,PRE,,,Identify ON/OFF switch and emergency stop button (if applicable).,2
+PEM-EQ-CUT-002,PROCEDURE,PRE,,,"Ensure timber is in good condition, free from foreign material (such as nails).",3
+PEM-EQ-CUT-002,PROCEDURE,PRE,,,Turn on local exhaust system (if available).,4
+PEM-EQ-CUT-002,PROCEDURE,OPERATION,Operation/Task:,,Check that the saw runs ‘true’ and does not wobble.,1
+PEM-EQ-CUT-002,PROCEDURE,OPERATION,,,Keep hands clear of work piece and away from the blade.,2
+PEM-EQ-CUT-002,PROCEDURE,OPERATION,,,Never leave the machine running unattended.,3
+PEM-EQ-CUT-002,PROCEDURE,POST,POST-Operation/Task:,,Switch off saw before removing waste material from the table.,1
