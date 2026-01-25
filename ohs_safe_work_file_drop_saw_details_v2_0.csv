@@ -1,0 +1,28 @@
+EquipmentCode,DocumentCategory,DocumentSubCategory,HeaderDescription,TrueFalseIndicator,Comments,Sequence
+PEM-EQ-CUT-010,HEADER,,Description of Work:,,,1
+PEM-EQ-CUT-010,HEADER,,,,"Using a Drop Saw (Mitre, Rip or Crosscut)",2
+PEM-EQ-CUT-010,HAZARD_SUMMARY,,Potential Hazards:,,,1
+PEM-EQ-CUT-010,HAZARD_SUMMARY,,,,"Exposed moving parts and electrical hazard with the potential to cause harm through entanglement, impact and cutting, exposure to noise, dust, projectiles and sharp objects.",2
+PEM-EQ-CUT-010,PPE,,Personal Protective Equipment (PPE) Required (Check the box for required PPE),,,1
+PEM-EQ-CUT-010,PPE,,,FALSE,Gloves,2
+PEM-EQ-CUT-010,PPE,,,TRUE,Face Masks,3
+PEM-EQ-CUT-010,PPE,,,TRUE,Eye Protection,4
+PEM-EQ-CUT-010,PPE,,,FALSE,Welding Mask,5
+PEM-EQ-CUT-010,PPE,,,TRUE,Appropriate Footwear,6
+PEM-EQ-CUT-010,PPE,,,TRUE,Hearing Protection,7
+PEM-EQ-CUT-010,PPE,,,TRUE,Protective Clothing,8
+PEM-EQ-CUT-010,SWP,,Safe Work Procedure Checklist:,,,1
+PEM-EQ-CUT-010,PROCEDURE,PRE,PRE-Operation/Task:,,,1
+PEM-EQ-CUT-010,PROCEDURE,PRE,,,"Task (e.g. Drawings, instructions, specifications etc.) is clearly understood.",2
+PEM-EQ-CUT-010,PROCEDURE,PRE,,,Ensure guarding is in place.,3
+PEM-EQ-CUT-010,PROCEDURE,PRE,,,Ensure the appropriate blade is being used for the task.,4
+PEM-EQ-CUT-010,PROCEDURE,PRE,,,Ensure the local exhaust/ventilation system is switched on and in good working order.,5
+PEM-EQ-CUT-010,PROCEDURE,PRE,,,Identify ON/OFF switch and emergency stop button (if applicable).,6
+PEM-EQ-CUT-010,PROCEDURE,OPERATION,Operation/Task:,,,1
+PEM-EQ-CUT-010,PROCEDURE,OPERATION,,,Check that saw runs ‘true’ and does not wobble.,2
+PEM-EQ-CUT-010,PROCEDURE,OPERATION,,,Keep hands clear of work piece and away from rotating blade.,3
+PEM-EQ-CUT-010,PROCEDURE,OPERATION,,,Back out frequently on deep cuts to clean and allow the blade to cool.,4
+PEM-EQ-CUT-010,PROCEDURE,OPERATION,,,Ensure guarding is in place before saw is re-started.,5
+PEM-EQ-CUT-010,PROCEDURE,POST,POST-Operation/Task:,,,1
+PEM-EQ-CUT-010,PROCEDURE,POST,,,Switch off saw before removing waste material from the table.,2
+PEM-EQ-CUT-010,PROCEDURE,POST,,,Ensure good housekeeping practices are in place to minimise dust build-up.,3
