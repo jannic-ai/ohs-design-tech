@@ -1,0 +1,31 @@
+EquipmentCode,DocumentCategory,DocumentSubCategory,HeaderDescription,TrueFalseIndicator,Comments,Sequence
+PEM-EQ-SHAPE-028,HEADER,,Description of Work:,,,1
+PEM-EQ-SHAPE-028,HEADER,,,,Using a Thicknesser,2
+PEM-EQ-SHAPE-028,HAZARD_SUMMARY,,Potential Hazards:,,,1
+PEM-EQ-SHAPE-028,HAZARD_SUMMARY,,,,"Exposed moving parts and electrical hazard with the potential to cause harm through impact and cutting, exposure to noise, dust, electricity, projectiles and sharp objects.",2
+PEM-EQ-SHAPE-028,PPE,,Personal Protective Equipment (PPE) Required (Check the box for required PPE),,,1
+PEM-EQ-SHAPE-028,PPE,,,FALSE,Gloves,2
+PEM-EQ-SHAPE-028,PPE,,,TRUE,Face Masks,3
+PEM-EQ-SHAPE-028,PPE,,,TRUE,Eye Protection,4
+PEM-EQ-SHAPE-028,PPE,,,FALSE,Welding Mask,5
+PEM-EQ-SHAPE-028,PPE,,,TRUE,Appropriate Footwear,6
+PEM-EQ-SHAPE-028,PPE,,,TRUE,Hearing Protection,7
+PEM-EQ-SHAPE-028,PPE,,,TRUE,Protective Clothing,8
+PEM-EQ-SHAPE-028,SWP,,Safe Work Procedure Checklist:,,,1
+PEM-EQ-SHAPE-028,PROCEDURE,PRE,PRE-Operation/Task:,,,1
+PEM-EQ-SHAPE-028,PROCEDURE,PRE,,,"Task (e.g. Drawings, instructions, specifications etc.) is clearly understood.",2
+PEM-EQ-SHAPE-028,PROCEDURE,PRE,,,Ensure the piece of timber is well supported.,3
+PEM-EQ-SHAPE-028,PROCEDURE,PRE,,,Correct height to be planed is set.,4
+PEM-EQ-SHAPE-028,PROCEDURE,PRE,,,Ensure appropriate guarding is in place.,5
+PEM-EQ-SHAPE-028,PROCEDURE,PRE,,,Check that timber is in good condition and free from foreign materials (such as nails).,6
+PEM-EQ-SHAPE-028,PROCEDURE,PRE,,,Identify ON/OFF switch and emergency stop button (if applicable).,7
+PEM-EQ-SHAPE-028,PROCEDURE,OPERATION,Operation/Task:,,,1
+PEM-EQ-SHAPE-028,PROCEDURE,OPERATION,,,When inserting timber ensure operator’s hands are kept clear of the opening.,2
+PEM-EQ-SHAPE-028,PROCEDURE,OPERATION,,,Ensure hands are kept clear of work piece and away from rotating tool.,3
+PEM-EQ-SHAPE-028,PROCEDURE,OPERATION,,,Turn off machine and take out piece of timber prior to changing the plane height.,4
+PEM-EQ-SHAPE-028,PROCEDURE,OPERATION,,,Ensure guarding is in place before re-starting machine.,5
+PEM-EQ-SHAPE-028,PROCEDURE,OPERATION,,,"If clearing a jam, ensure machine is turned off at the power point immediately.",6
+PEM-EQ-SHAPE-028,PROCEDURE,OPERATION,,,Do not leave the thicknesser unattended.,7
+PEM-EQ-SHAPE-028,PROCEDURE,POST,POST-Operation/Task:,,,1
+PEM-EQ-SHAPE-028,PROCEDURE,POST,,,Switch off thicknesser before removing waste material.,2
+PEM-EQ-SHAPE-028,PROCEDURE,POST,,,Ensure good housekeeping practices are in place to minimise dust build-up.,3
