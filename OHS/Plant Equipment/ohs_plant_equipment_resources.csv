@@ -1,177 +1,177 @@
-EquipmentCode,Category,EquipmentName,PowerType,IsRestricted,DocumentType,DocumentTitle,DocumentURL
-PEM-EQ-MAINT-001,Maintenance,Chain Saw,Electric,FALSE,Risk Management Form,Chain Saw (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/chain-saw-electric-risk-management-form-2671
-PEM-EQ-MAINT-002,Maintenance,Chain Saw,Electric,FALSE,Safe Work Procedure,Chain Saw (Electric) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/chain-saw-electric-safe-work-procedure-2670
-PEM-EQ-MAINT-003,Maintenance,Chain Saw,Fuel,FALSE,Risk Management Form,Chain Saw (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/chain-saw-fuel-risk-management-form-2673
-PEM-EQ-MAINT-004,Maintenance,Chain Saw,Fuel,FALSE,Safe Work Procedure,Chain Saw (Fuel) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/chain-saw-fuel-safe-work-procedure-2672
-PEM-EQ-MAINT-005,Maintenance,Forklift,Electric,FALSE,Risk Management Form,Forklift (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/forklift-electric-risk-management-form-2704
-PEM-EQ-MAINT-006,Maintenance,Forklift,Electric,FALSE,Safe Work Procedure,,
-PEM-EQ-MAINT-007,Maintenance,Forklift,Electric and Fuel,FALSE,Risk Management Form,,
-PEM-EQ-MAINT-008,Maintenance,Forklift,Electric and Fuel,FALSE,Safe Work Procedure,Forklift (Electric and Fuel) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/forklift-electric-and-fuel-safe-work-procedure-2706
-PEM-EQ-MAINT-009,Maintenance,Forklift,Fuel,FALSE,Risk Management Form,Forklift (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/forklift-fuel-risk-management-form-2705
-PEM-EQ-MAINT-010,Maintenance,Forklift,Fuel,FALSE,Safe Work Procedure,,
-PEM-EQ-MAINT-011,Maintenance,Hedge Trimmer,Electric,FALSE,Risk Management Form,Hedge Trimmer (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/hedge-trimmer-electric-risk-management-form-2719
-PEM-EQ-MAINT-012,Maintenance,Hedge Trimmer,Electric,FALSE,Safe Work Procedure,Hedge Trimmer (Electric) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/hedge-trimmer-electric-safe-work-procedure-2718
-PEM-EQ-MAINT-013,Maintenance,Hedge Trimmer,Fuel,FALSE,Risk Management Form,Hedge Trimmer (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/hedge-trimmer-fuel-risk-management-form-2721
-PEM-EQ-MAINT-014,Maintenance,Hedge Trimmer,Fuel,FALSE,Safe Work Procedure,,
-PEM-EQ-MAINT-015,Maintenance,High Pressure Water Cleaner,,FALSE,Risk Management Form,High Pressure Water Cleaner Risk Management Form,https://content.sdp.education.vic.gov.au/media/high-pressure-water-cleaner-risk-management-form-2723
-PEM-EQ-MAINT-016,Maintenance,High Pressure Water Cleaner,,FALSE,Safe Work Procedure,High Pressure Water Cleaner Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/high-pressure-water-cleaner-safe-work-procedure-2722
-PEM-EQ-MAINT-017,Maintenance,Lawn Mower,Electric,FALSE,Risk Management Form,Lawn Mower (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/lawn-mower-electric-risk-management-form-2736
-PEM-EQ-MAINT-018,Maintenance,Lawn Mower,Electric,FALSE,Safe Work Procedure,Lawn Mower (Electric) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/lawn-mower-electric-safe-work-procedure-2735
-PEM-EQ-MAINT-019,Maintenance,Lawn Mower,Fuel,FALSE,Risk Management Form,Lawn Mower (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/lawn-mower-fuel-risk-management-form-2738
-PEM-EQ-MAINT-020,Maintenance,Lawn Mower,Fuel,FALSE,Safe Work Procedure,Lawn Mower (Fuel) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/lawn-mower-fuel-safe-work-procedure-2737
-PEM-EQ-MAINT-021,Maintenance,Leaf Blower,Electric,FALSE,Risk Management Form,Leaf Blower (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/leaf-blower-electric-risk-management-form-2740
-PEM-EQ-MAINT-022,Maintenance,Leaf Blower,Electric,FALSE,Safe Work Procedure,Leaf Blower (Electric) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/leaf-blower-electric-safe-work-procedure-2739
-PEM-EQ-MAINT-023,Maintenance,Leaf Blower,Fuel,FALSE,Risk Management Form,Leaf Blower (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/leaf-blower-fuel-risk-management-form-2742
-PEM-EQ-MAINT-024,Maintenance,Leaf Blower,Fuel,FALSE,Safe Work Procedure,Leaf Blower (Fuel) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/leaf-blower-fuel-safe-work-procedure-2741
-PEM-EQ-MAINT-025,Maintenance,Mulcher/Chipper,,FALSE,Risk Management Form,,
-PEM-EQ-MAINT-026,Maintenance,Mulcher/Chipper,,FALSE,Safe Work Procedure,Mulcher/Chipper Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/mulcher/chipper-safe-work-procedure-2759
-PEM-EQ-MAINT-027,Maintenance,Mulcher/Chipper,Electric,FALSE,Risk Management Form,Mulcher/Chipper (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/mulcher/chipper-electric-risk-management-form-2758
-PEM-EQ-MAINT-028,Maintenance,Mulcher/Chipper,Electric,FALSE,Safe Work Procedure,,
-PEM-EQ-MAINT-029,Maintenance,Mulcher/Chipper,Fuel,FALSE,Risk Management Form,Mulcher/Chipper (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/mulcher/chipper-fuel-risk-management-form-2760
-PEM-EQ-MAINT-030,Maintenance,Mulcher/Chipper,Fuel,FALSE,Safe Work Procedure,,
-PEM-EQ-MAINT-031,Maintenance,Power Lopper,Electric,FALSE,Risk Management Form,Power Lopper (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/power-lopper-electric-risk-management-form-3346
-PEM-EQ-MAINT-032,Maintenance,Power Lopper,Electric,FALSE,Safe Work Procedure,Power Lopper (Electric) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/power-lopper-electric-safe-work-procedure-2795
-PEM-EQ-MAINT-033,Maintenance,Ride on Lawn Mower,,FALSE,Risk Management Form,,
-PEM-EQ-MAINT-034,Maintenance,Ride on Lawn Mower,,FALSE,Safe Work Procedure,Ride on Lawn Mower Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/ride-on-lawn-mower-safe-work-procedure-2802
-PEM-EQ-MAINT-035,Maintenance,Ride on Lawn Mower,Fuel,FALSE,Risk Management Form,Ride on Lawn Mower (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/ride-on-lawn-mower-fuel-risk-management-form-2803
-PEM-EQ-MAINT-036,Maintenance,Ride on Lawn Mower,Fuel,FALSE,Safe Work Procedure,,
-PEM-EQ-MAINT-037,Maintenance,Scissor Lift,Electric,FALSE,Risk Management Form,Scissor Lift (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/scissor-lift-electric-risk-management-form-2822
-PEM-EQ-MAINT-038,Maintenance,Scissor Lift,Electric,FALSE,Safe Work Procedure,,
-PEM-EQ-MAINT-039,Maintenance,Scissor Lift,Electric and Fuel,FALSE,Risk Management Form,,
-PEM-EQ-MAINT-040,Maintenance,Scissor Lift,Electric and Fuel,FALSE,Safe Work Procedure,Scissor Lift (Electric and Fuel) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/scissor-lift-electric-and-fuel-safe-work-procedure-2824
-PEM-EQ-MAINT-041,Maintenance,Scissor Lift,Fuel,FALSE,Risk Management Form,Scissor Lift (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/scissor-lift-fuel-risk-management-form-2823
-PEM-EQ-MAINT-042,Maintenance,Scissor Lift,Fuel,FALSE,Safe Work Procedure,,
-PEM-EQ-MAINT-043,Maintenance,Tractor,,FALSE,Risk Management Form,Tractor Risk Management Form,https://content.sdp.education.vic.gov.au/media/tractor-risk-management-form-2843
-PEM-EQ-MAINT-044,Maintenance,Tractor,,FALSE,Safe Work Procedure,Tractor Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/tractor-safe-work-procedure-2842
-PEM-EQ-MAINT-045,Maintenance,Vacuum Cleaner,,FALSE,Risk Management Form,Vacuum Cleaner Risk Management Form,https://content.sdp.education.vic.gov.au/media/vacuum-cleaner-risk-management-form-2851
-PEM-EQ-MAINT-046,Maintenance,Vacuum Cleaner,,FALSE,Safe Work Procedure,Vacuum Cleaner Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/vacuum-cleaner-safe-work-procedure-2850
-PEM-EQ-MAINT-047,Maintenance,Vacuum Cleaner (Backpack),,FALSE,Risk Management Form,Vacuum Cleaner (Backpack) Risk Management Form,https://content.sdp.education.vic.gov.au/media/vacuum-cleaner-backpack-risk-management-form-2849
-PEM-EQ-MAINT-048,Maintenance,Vacuum Cleaner (Backpack),,FALSE,Safe Work Procedure,Vacuum Cleaner (Backpack) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/vacuum-cleaner-backpack-safe-work-procedure-2848
-PEM-EQ-MAINT-049,Maintenance,Vacuum Cleaner (Outdoor),,FALSE,Risk Management Form,Vacuum Cleaner (Outdoor) Risk Management Form,https://content.sdp.education.vic.gov.au/media/vacuum-cleaner-outdoor-risk-management-form-2777
-PEM-EQ-MAINT-050,Maintenance,Vacuum Cleaner (Outdoor),,FALSE,Safe Work Procedure,Vacuum Cleaner (Outdoor) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/vacuum-cleaner-outdoor-safe-work-procedure-2776
-PEM-EQ-MAINT-051,Maintenance,Whipper Snipper,Electric,FALSE,Risk Management Form,Whipper Snipper (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/whipper-snipper-electric-risk-management-form-2864
-PEM-EQ-MAINT-052,Maintenance,Whipper Snipper,Electric,FALSE,Safe Work Procedure,Whipper Snipper (Electric) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/whipper-snipper-electric-safe-work-procedure-2863
-PEM-EQ-MAINT-053,Maintenance,Whipper Snipper,Fuel,FALSE,Risk Management Form,Whipper Snipper (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/whipper-snipper-fuel-risk-management-form-2866
-PEM-EQ-MAINT-054,Maintenance,Whipper Snipper,Fuel,FALSE,Safe Work Procedure,Whipper Snipper (Fuel) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/whipper-snipper-fuel-safe-work-procedure-2865
-PEM-EQ-CUT-001,Cutting,Bandsaw,,TRUE,Risk Management Form,Bandsaw Risk Management Form,https://content.sdp.education.vic.gov.au/media/bandsaw-risk-management-form-2655
-PEM-EQ-CUT-002,Cutting,Bandsaw,,TRUE,Safe Work Procedure,Bandsaw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/bandsaw-safe-work-procedure-2654
-PEM-EQ-CUT-003,Cutting,Bench Shears,,FALSE,Risk Management Form,Bench Shears Risk Management Form,https://content.sdp.education.vic.gov.au/media/bench-shears-risk-management-form-2661
-PEM-EQ-CUT-004,Cutting,Bench Shears,,FALSE,Safe Work Procedure,Bench Shears Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/bench-shears-safe-work-procedure-2660
-PEM-EQ-CUT-005,Cutting,Circular Saw – Portable,,TRUE,Risk Management Form,Circular Saw – Portable Risk Management Form,https://content.sdp.education.vic.gov.au/media/circular-saw-portable-risk-management-form-2676
-PEM-EQ-CUT-006,Cutting,Circular Saw – Portable,,TRUE,Safe Work Procedure,Circular Saw – Portable Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/circular-saw-portable-safe-work-procedure-2675
-PEM-EQ-CUT-007,Cutting,Cold Metal Drop Saw,,TRUE,Risk Management Form,Cold Metal Drop Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/cold-metal-drop-saw-risk-management-form-2683
-PEM-EQ-CUT-008,Cutting,Cold Metal Drop Saw,,TRUE,Safe Work Procedure,Cold Metal Drop Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/cold-metal-drop-saw-safe-work-procedure-2684
-PEM-EQ-CUT-009,Cutting,Drop Saw,,TRUE,Risk Management Form,Drop Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/drop-saw-risk-management-form-2696
-PEM-EQ-CUT-010,Cutting,Drop Saw,,TRUE,Safe Work Procedure,Drop Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/drop-saw-safe-work-procedure-2695
-PEM-EQ-CUT-011,Cutting,Guillotine,,TRUE,Risk Management Form,Guillotine Risk Management Form,https://content.sdp.education.vic.gov.au/media/guillotine-risk-management-form-2714
-PEM-EQ-CUT-012,Cutting,Guillotine,,TRUE,Safe Work Procedure,Guillotine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/guillotine-safe-work-procedure-2713
-PEM-EQ-CUT-013,Cutting,Jigsaw,,FALSE,Risk Management Form,Jigsaw Risk Management Form,https://content.sdp.education.vic.gov.au/media/jigsaw-risk-management-form-2734
-PEM-EQ-CUT-014,Cutting,Jigsaw,,FALSE,Safe Work Procedure,Jigsaw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/jigsaw-safe-work-procedure-2733
-PEM-EQ-CUT-015,Cutting,Metal Cutting Horizontal Bandsaw,,TRUE,Risk Management Form,Metal Cutting Horizontal Bandsaw Risk Management Form,https://content.sdp.education.vic.gov.au/media/metal-cutting-horizontal-bandsaw-risk-management-form-2746
-PEM-EQ-CUT-016,Cutting,Metal Cutting Horizontal Bandsaw,,TRUE,Safe Work Procedure,Metal Cutting Horizontal Bandsaw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/metal-cutting-horizontal-bandsaw-safe-work-procedure-2745
-PEM-EQ-CUT-017,Cutting,Portable Nibbler,,FALSE,Risk Management Form,Portable Nibbler Risk Management Form,https://content.sdp.education.vic.gov.au/media/portable-nibbler-risk-management-form-2765
-PEM-EQ-CUT-018,Cutting,Portable Nibbler,,FALSE,Safe Work Procedure,Portable Nibbler Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/portable-nibbler-safe-work-procedure-2764
-PEM-EQ-CUT-019,Cutting,Power Hacksaw,,FALSE,Risk Management Form,Power Hacksaw Risk Management Form,https://content.sdp.education.vic.gov.au/media/power-hacksaw-risk-management-form-2794
-PEM-EQ-CUT-020,Cutting,Power Hacksaw,,FALSE,Safe Work Procedure,Power Hacksaw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/power-hacksaw-safe-work-procedure-2793
-PEM-EQ-CUT-021,Cutting,Radical Arm Saw,,TRUE,Risk Management Form,Radical Arm Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/radical-arm-saw-risk-management-form-2797
-PEM-EQ-CUT-022,Cutting,Radical Arm Saw,,TRUE,Safe Work Procedure,Radical Arm Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/radical-arm-saw-safe-work-procedure-2796
-PEM-EQ-CUT-023,Cutting,Reciprocating Saw,,TRUE,Risk Management Form,Reciprocating Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/reciprocating-saw-risk-management-form-2799
-PEM-EQ-CUT-024,Cutting,Reciprocating Saw,,TRUE,Safe Work Procedure,Reciprocating Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/reciprocating-saw-safe-work-procedure-2798
-PEM-EQ-CUT-025,Cutting,"Rip Saw (Table Saw, Bench Saw)",,TRUE,Risk Management Form,"Rip Saw (Table Saw, Bench Saw) Risk Management Form",https://content.sdp.education.vic.gov.au/media/rip-saw-table-saw-bench-saw-risk-management-form-2805
-PEM-EQ-CUT-026,Cutting,"Rip Saw (Table Saw, Bench Saw)",,TRUE,Safe Work Procedure,"Rip Saw (Table Saw, Bench Saw) Safe Work Procedure",https://content.sdp.education.vic.gov.au/media/rip-saw-table-saw-bench-saw-safe-work-procedure-2804
-PEM-EQ-CUT-027,Cutting,Scrolling Saw,,FALSE,Risk Management Form,Scrolling Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/scrolling-saw-risk-management-form-2826
-PEM-EQ-CUT-028,Cutting,Scrolling Saw,,FALSE,Safe Work Procedure,Scrolling Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/scrolling-saw-safe-work-procedure-2825
-PEM-EQ-CUT-029,Cutting,Tenon Saw,,FALSE,Risk Management Form,Tenon Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/tenon-saw-risk-management-form-2838
-PEM-EQ-CUT-030,Cutting,Tenon Saw,,FALSE,Safe Work Procedure,Tenon Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/tenon-saw-safe-work-procedure-2837
-PEM-EQ-CUT-031,Cutting,Vertical Panel Saw,,TRUE,Risk Management Form,Vertical Panel Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/vertical-panel-saw-risk-management-form-2857
-PEM-EQ-CUT-032,Cutting,Vertical Panel Saw,,TRUE,Safe Work Procedure,Vertical Panel Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/vertical-panel-saw-safe-work-procedure-2856
-PEM-EQ-SHAPE-001,Shaping,Angle Grinder,,TRUE,Risk Management Form,Angle Grinder Risk Management Form,https://content.sdp.education.vic.gov.au/media/angle-grinder-risk-management-form-2648
-PEM-EQ-SHAPE-002,Shaping,Angle Grinder,,TRUE,Safe Work Procedure,Angle Grinder Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/angle-grinder-safe-work-procedure-2647
-PEM-EQ-SHAPE-003,Shaping,CNC Milling Machine,,FALSE,Risk Management Form,CNC Milling Machine Risk Management Form,https://content.sdp.education.vic.gov.au/media/cnc-milling-machine-risk-management-form-2680
-PEM-EQ-SHAPE-004,Shaping,CNC Milling Machine,,FALSE,Safe Work Procedure,CNC Milling Machine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/cnc-milling-machine-safe-work-procedure-2679
-PEM-EQ-SHAPE-005,Shaping,CNC Router,,FALSE,Risk Management Form,,
-PEM-EQ-SHAPE-006,Shaping,CNC Router,,FALSE,Safe Work Procedure,CNC Router Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/cnc-router-safe-work-procedure-2681
-PEM-EQ-SHAPE-007,Shaping,Centrifugal Casting Machine,,FALSE,Risk Management Form,Centrifugal Casting Machine Risk Management Form,https://content.sdp.education.vic.gov.au/media/centrifugal-casting-machine-risk-management-form-2669
-PEM-EQ-SHAPE-008,Shaping,Centrifugal Casting Machine,,FALSE,Safe Work Procedure,Centrifugal Casting Machine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/centrifugal-casting-machine-safe-work-procedure-2668
-PEM-EQ-SHAPE-009,Shaping,"Grinder, Bench and Pedestal",,TRUE,Risk Management Form,"Grinder, Bench and Pedestal Risk Management Form",https://content.sdp.education.vic.gov.au/media/grinder-bench-and-pedestal-risk-management-form-2712
-PEM-EQ-SHAPE-010,Shaping,"Grinder, Bench and Pedestal",,TRUE,Safe Work Procedure,"Grinder, Bench and Pedestal Safe Work Procedure",https://content.sdp.education.vic.gov.au/media/grinder-bench-and-pedestal-safe-work-procedure-2711
-PEM-EQ-SHAPE-011,Shaping,Hydraulic Press,,FALSE,Risk Management Form,Hydraulic Press Risk Management Form,https://content.sdp.education.vic.gov.au/media/hydraulic-press-risk-management-form-2730
-PEM-EQ-SHAPE-012,Shaping,Hydraulic Press,,FALSE,Safe Work Procedure,Hydraulic Press Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/hydraulic-press-safe-work-procedure-2729
-PEM-EQ-SHAPE-013,Shaping,Metal Lathe,,FALSE,Risk Management Form,Metal Lathe Risk Management Form,https://content.sdp.education.vic.gov.au/media/metal-lathe-risk-management-form-2748
-PEM-EQ-SHAPE-014,Shaping,Metal Lathe,,FALSE,Safe Work Procedure,Metal Lathe Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/metal-lathe-safe-work-procedure-2747
-PEM-EQ-SHAPE-015,Shaping,Metal Rolling Machine,,FALSE,Risk Management Form,Metal Rolling Machine Risk Management Form,https://content.sdp.education.vic.gov.au/media/metal-rolling-machine-risk-management-form-2752
-PEM-EQ-SHAPE-016,Shaping,Metal Rolling Machine,,FALSE,Safe Work Procedure,Metal Rolling Machine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/metal-rolling-machine-safe-work-procedure-2751
-PEM-EQ-SHAPE-017,Shaping,Milling Machine,,FALSE,Risk Management Form,Milling Machine Risk Management Form,https://content.sdp.education.vic.gov.au/media/milling-machine-risk-management-form-2750
-PEM-EQ-SHAPE-018,Shaping,Milling Machine,,FALSE,Safe Work Procedure,Milling Machine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/milling-machine-safe-work-procedure-2749
-PEM-EQ-SHAPE-019,Shaping,Plastic Strip Heater,,FALSE,Risk Management Form,Plastic Strip Heater Risk Management Form,https://content.sdp.education.vic.gov.au/media/plastic-strip-heater-risk-management-form-2789
-PEM-EQ-SHAPE-020,Shaping,Plastic Strip Heater,,FALSE,Safe Work Procedure,Plastic Strip Heater Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/plastic-strip-heater-safe-work-procedure-2788
-PEM-EQ-SHAPE-021,Shaping,Router – Plunge,,TRUE,Risk Management Form,Router – Plunge Risk Management Form,https://content.sdp.education.vic.gov.au/media/router-plunge-risk-management-form-2809
-PEM-EQ-SHAPE-022,Shaping,Router – Plunge,,TRUE,Safe Work Procedure,Router – Plunge Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/router-plunge-safe-work-procedure-2808
-PEM-EQ-SHAPE-023,Shaping,Router – Table Mounted,,TRUE,Risk Management Form,Router – Table Mounted Risk Management Form,https://content.sdp.education.vic.gov.au/media/router-table-mounted-risk-management-form-2811
-PEM-EQ-SHAPE-024,Shaping,Router – Table Mounted,,TRUE,Safe Work Procedure,Router – Table Mounted Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/router-table-mounted-safe-work-procedure-2810
-PEM-EQ-SHAPE-025,Shaping,Swaging Machine,,FALSE,Risk Management Form,Swaging Machine Risk Management Form,https://content.sdp.education.vic.gov.au/media/swaging-machine-risk-management-form-2834
-PEM-EQ-SHAPE-026,Shaping,Swaging Machine,,FALSE,Safe Work Procedure,Swaging Machine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/swaging-machine-safe-work-procedure-2833
-PEM-EQ-SHAPE-027,Shaping,Thicknesser,,TRUE,Risk Management Form,Thicknesser Risk Management Form,https://content.sdp.education.vic.gov.au/media/thicknesser-risk-management-form-2841
-PEM-EQ-SHAPE-028,Shaping,Thicknesser,,TRUE,Safe Work Procedure,Thicknesser Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/thicknesser-safe-work-procedure-2840
-PEM-EQ-SHAPE-029,Shaping,Vacuum Former,,FALSE,Risk Management Form,Vacuum Former Risk Management Form,https://content.sdp.education.vic.gov.au/media/vacuum-former-risk-management-form-2853
-PEM-EQ-SHAPE-030,Shaping,Vacuum Former,,FALSE,Safe Work Procedure,Vacuum Former Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/vacuum-former-safe-work-procedure-2852
-PEM-EQ-SHAPE-031,Shaping,Wood Engraver – Portable,,FALSE,Risk Management Form,Wood Engraver – Portable Risk Management Form,https://content.sdp.education.vic.gov.au/media/wood-engraver-portable-risk-management-form-2868
-PEM-EQ-SHAPE-032,Shaping,Wood Engraver – Portable,,FALSE,Safe Work Procedure,Wood Engraver – Portable Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/wood-engraver-portable-safe-work-procedure-2867
-PEM-EQ-SHAPE-033,Shaping,Wood Lathe,,FALSE,Risk Management Form,Wood Lathe Risk Management Form,https://content.sdp.education.vic.gov.au/media/wood-lathe-risk-management-form-2870
-PEM-EQ-SHAPE-034,Shaping,Wood Lathe,,FALSE,Safe Work Procedure,Wood Lathe Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/wood-lathe-safe-work-procedure-2869
-PEM-EQ-JOIN-001,Joining,Arc Welder,,FALSE,Risk Management Form,Arc Welder Risk Management Form,https://content.sdp.education.vic.gov.au/media/arc-welder-risk-management-form-2650
-PEM-EQ-JOIN-002,Joining,Arc Welder,,FALSE,Safe Work Procedure,Arc Welder Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/arc-welder-safe-work-procedure-2649
-PEM-EQ-JOIN-003,Joining,Biscuit Joiner,,FALSE,Risk Management Form,Biscuit Joiner Risk Management Form,https://content.sdp.education.vic.gov.au/media/biscuit-joiner-risk-management-form-2663
-PEM-EQ-JOIN-004,Joining,Biscuit Joiner,,FALSE,Safe Work Procedure,Biscuit Joiner Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/biscuit-joiner-safe-work-procedure-2662
-PEM-EQ-JOIN-005,Joining,Dowelling Machine,,FALSE,Risk Management Form,Dowelling Machine Risk Management Form,https://content.sdp.education.vic.gov.au/media/dowelling-machine-risk-management-form-2692
-PEM-EQ-JOIN-006,Joining,Dowelling Machine,,FALSE,Safe Work Procedure,Dowelling Machine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/dowelling-machine-safe-work-procedure-2691
-PEM-EQ-JOIN-007,Joining,Drill Press,,FALSE,Risk Management Form,Drill Press Risk Management Form,https://content.sdp.education.vic.gov.au/media/drill-press-risk-management-form-2694
-PEM-EQ-JOIN-008,Joining,Drill Press,,FALSE,Safe Work Procedure,Drill Press Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/drill-press-safe-work-procedure-2693
-PEM-EQ-JOIN-009,Joining,Gas Torch,,FALSE,Risk Management Form,Gas Torch Risk Management Form,https://content.sdp.education.vic.gov.au/media/gas-torch-risk-management-form-2708
-PEM-EQ-JOIN-010,Joining,Gas Torch,,FALSE,Safe Work Procedure,Gas Torch Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/gas-torch-safe-work-procedure-2707
-PEM-EQ-JOIN-011,Joining,Horizontal Borer,,FALSE,Risk Management Form,Horizontal Borer Risk Management Form,https://content.sdp.education.vic.gov.au/media/horizontal-borer-risk-management-form-2725
-PEM-EQ-JOIN-012,Joining,Horizontal Borer,,FALSE,Safe Work Procedure,Horizontal Borer Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/horizontal-borer-safe-work-procedure-2724
-PEM-EQ-JOIN-013,Joining,MIG Welding,,FALSE,Risk Management Form,MIG Welding Risk Management Form,https://content.sdp.education.vic.gov.au/media/mig-welding-risk-management-form-2754
-PEM-EQ-JOIN-014,Joining,MIG Welding,,FALSE,Safe Work Procedure,MIG Welding Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/mig-welding-safe-work-procedure-2753
-PEM-EQ-JOIN-015,Joining,Mortiser,,FALSE,Risk Management Form,Mortiser Risk Management Form,https://content.sdp.education.vic.gov.au/media/mortiser-risk-management-form-2756
-PEM-EQ-JOIN-016,Joining,Mortiser,,FALSE,Safe Work Procedure,Mortiser Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/mortiser-safe-work-procedure-2755
-PEM-EQ-JOIN-017,Joining,Nail Gun,,FALSE,Risk Management Form,Nail Gun Risk Management Form,https://content.sdp.education.vic.gov.au/media/nail-gun-risk-management-form-2763
-PEM-EQ-JOIN-018,Joining,Nail Gun,,FALSE,Safe Work Procedure,Nail Gun Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/nail-gun-safe-work-procedure-2762
-PEM-EQ-JOIN-019,Joining,Oxy-acetylene Equipment,,FALSE,Risk Management Form,Oxy-acetylene Equipment Risk Management Form,https://content.sdp.education.vic.gov.au/media/oxy-acetylene-equipment-risk-management-form-2780
-PEM-EQ-JOIN-020,Joining,Oxy-acetylene Equipment,,FALSE,Safe Work Procedure,Oxy-acetylene Equipment Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/oxy-acetylene-equipment-safe-work-procedure-2779
-PEM-EQ-JOIN-021,Joining,Power Drill,,FALSE,Risk Management Form,Power Drill Risk Management Form,https://content.sdp.education.vic.gov.au/media/power-drill-risk-management-form-2792
-PEM-EQ-JOIN-022,Joining,Power Drill,,FALSE,Safe Work Procedure,Power Drill Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/power-drill-safe-work-procedure-2791
-PEM-EQ-JOIN-023,Joining,Spot Welder,,FALSE,Risk Management Form,Spot Welder Risk Management Form,https://content.sdp.education.vic.gov.au/media/spot-welder-risk-management-form-2831
-PEM-EQ-JOIN-024,Joining,Spot Welder,,FALSE,Safe Work Procedure,Spot Welder Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/spot-welder-safe-work-procedure-2829
-PEM-EQ-FINISH-001,Finishing,Belt Sander,,FALSE,Risk Management Form,Belt Sander Risk Management Form,https://content.sdp.education.vic.gov.au/media/belt-sander-risk-management-form-2659
-PEM-EQ-FINISH-002,Finishing,Belt Sander,,FALSE,Safe Work Procedure,Belt Sander Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/belt-sander-safe-work-procedure-2658
-PEM-EQ-FINISH-003,Finishing,Bobbin Sander,,FALSE,Risk Management Form,Bobbin Sander Risk Management Form,https://content.sdp.education.vic.gov.au/media/bobbin-sander-risk-management-form-2665
-PEM-EQ-FINISH-004,Finishing,Bobbin Sander,,FALSE,Safe Work Procedure,Bobbin Sander Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/bobbin-sander-safe-work-procedure-2664
-PEM-EQ-FINISH-005,Finishing,Disc Sander,,FALSE,Risk Management Form,Disc Sander Risk Management Form,https://content.sdp.education.vic.gov.au/media/disc-sander-risk-management-form-2690
-PEM-EQ-FINISH-006,Finishing,Disc Sander,,FALSE,Safe Work Procedure,Disc Sander Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/disc-sander-safe-work-procedure-2689
-PEM-EQ-FINISH-007,Finishing,Electric Kiln,,FALSE,Risk Management Form,Electric Kiln Risk Management Form,https://content.sdp.education.vic.gov.au/media/electric-kiln-risk-management-form-2698
-PEM-EQ-FINISH-008,Finishing,Electric Kiln,,FALSE,Safe Work Procedure,Electric Kiln Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/electric-kiln-safe-work-procedure-2697
-PEM-EQ-FINISH-009,Finishing,Orbital Sander,,FALSE,Risk Management Form,Orbital Sander Risk Management Form,https://content.sdp.education.vic.gov.au/media/orbital-sander-risk-management-form-2775
-PEM-EQ-FINISH-010,Finishing,Orbital Sander,,FALSE,Safe Work Procedure,Orbital Sander Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/orbital-sander-safe-work-procedure-2774
-PEM-EQ-FINISH-011,Finishing,Planer – Electric Hand Held,,TRUE,Risk Management Form,Planer – Electric Hand Held Risk Management Form,https://content.sdp.education.vic.gov.au/media/planer-electric-hand-held-risk-management-form-2784
-PEM-EQ-FINISH-012,Finishing,Planer – Electric Hand Held,,TRUE,Safe Work Procedure,Planer – Electric Hand Held Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/planer-electric-hand-held-safe-work-procedure-2783
-PEM-EQ-MISC-001,Miscellaneous,Air Compressor,,FALSE,Risk Management Form,Air Compressor Risk Management Form,https://content.sdp.education.vic.gov.au/media/air-compressor-risk-management-form-2646
-PEM-EQ-MISC-002,Miscellaneous,Air Compressor,,FALSE,Safe Work Procedure,Air Compressor Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/air-compressor-safe-work-procedure-2645
-PEM-EQ-MISC-003,Miscellaneous,Automotive Parts Washer,,FALSE,Risk Management Form,Automotive Parts Washer Risk Management Form,https://content.sdp.education.vic.gov.au/media/automotive-parts-washer-risk-management-form-2653
-PEM-EQ-MISC-004,Miscellaneous,Automotive Parts Washer,,FALSE,Safe Work Procedure,Automotive Parts Washer Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/automotive-parts-washer-safe-work-procedure-2652
-PEM-EQ-MISC-005,Miscellaneous,Battery Charger,,FALSE,Risk Management Form,Battery Charger Risk Management Form,https://content.sdp.education.vic.gov.au/media/battery-charger-risk-management-form-2657
-PEM-EQ-MISC-006,Miscellaneous,Battery Charger,,FALSE,Safe Work Procedure,Battery Charger Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/battery-charger-safe-work-procedure-2656
-PEM-EQ-MISC-007,Miscellaneous,Bunsen and Meker Burners,,FALSE,Risk Management Form,Bunsen and Meker Burners Risk Management Form,https://content.sdp.education.vic.gov.au/media/bunsen-and-meker-burners-risk-management-form-2667
-PEM-EQ-MISC-008,Miscellaneous,Bunsen and Meker Burners,,FALSE,Safe Work Procedure,Bunsen and Meker Burners Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/bunsen-and-meker-burners-safe-work-procedure-2666
-PEM-EQ-MISC-009,Miscellaneous,Heat Gun,,FALSE,Risk Management Form,Heat Gun Risk Management Form,https://content.sdp.education.vic.gov.au/media/heat-gun-risk-management-form-2717
-PEM-EQ-MISC-010,Miscellaneous,Heat Gun,,FALSE,Safe Work Procedure,Heat Gun Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/heat-gun-safe-work-procedure-2716
-PEM-EQ-MISC-011,Miscellaneous,Human Powered Vehicles,,FALSE,Risk Management Form,Human Powered Vehicles Risk Management Form,https://content.sdp.education.vic.gov.au/media/human-powered-vehicles-risk-management-form-2727
-PEM-EQ-MISC-012,Miscellaneous,Human Powered Vehicles,,FALSE,Safe Work Procedure,Human Powered Vehicles Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/human-powered-vehicles-safe-work-procedure-2728
-PEM-EQ-MISC-013,Miscellaneous,LP-Gas BBQ,,FALSE,Risk Management Form,LP-Gas BBQ Risk Management Form,https://content.sdp.education.vic.gov.au/media/lp-gas-bbq-risk-management-form-2744
-PEM-EQ-MISC-014,Miscellaneous,LP-Gas BBQ,,FALSE,Safe Work Procedure,LP-Gas BBQ Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/lp-gas-bbq-safe-work-procedure-2743
-PEM-EQ-MISC-015,Miscellaneous,Tyre Changer,,FALSE,Risk Management Form,Tyre Changer Risk Management Form,https://content.sdp.education.vic.gov.au/media/tyre-changer-risk-management-form-2846
-PEM-EQ-MISC-016,Miscellaneous,Tyre Changer,,FALSE,Safe Work Procedure,Tyre Changer Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/tyre-changer-safe-work-procedure-2845
-PEM-EQ-MISC-017,Miscellaneous,Vehicle Jack,,FALSE,Risk Management Form,Vehicle Jack Risk Management Form,https://content.sdp.education.vic.gov.au/media/vehicle-jack-risk-management-form-2855
-PEM-EQ-MISC-018,Miscellaneous,Vehicle Jack,,FALSE,Safe Work Procedure,Vehicle Jack Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/vehicle-jack-risk-management-form-2854
-PEM-EQ-MISC-019,Miscellaneous,Wheelchair,,FALSE,Risk Management Form,Wheelchair Risk Management Form,https://content.sdp.education.vic.gov.au/media/wheelchair-risk-management-form-2862
-PEM-EQ-MISC-020,Miscellaneous,Wheelchair,,FALSE,Safe Work Procedure,Wheelchair Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/wheelchair-safe-work-procedure-2861
+EquipmentCode,Category,EquipmentName,PowerType,IsRestricted,SWPTestFormCode,RestrictedTestFormCode,DocumentType,DocumentTitle,DocumentURL
+PEM-EQ-MAINT-001,Maintenance,Chain Saw,Electric,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Chain Saw (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/chain-saw-electric-risk-management-form-2671
+PEM-EQ-MAINT-002,Maintenance,Chain Saw,Electric,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Chain Saw (Electric) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/chain-saw-electric-safe-work-procedure-2670
+PEM-EQ-MAINT-003,Maintenance,Chain Saw,Fuel,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Chain Saw (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/chain-saw-fuel-risk-management-form-2673
+PEM-EQ-MAINT-004,Maintenance,Chain Saw,Fuel,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Chain Saw (Fuel) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/chain-saw-fuel-safe-work-procedure-2672
+PEM-EQ-MAINT-005,Maintenance,Forklift,Electric,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Forklift (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/forklift-electric-risk-management-form-2704
+PEM-EQ-MAINT-006,Maintenance,Forklift,Electric,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,,
+PEM-EQ-MAINT-007,Maintenance,Forklift,Electric and Fuel,FALSE,PEM-TPL-COMP-001,,Risk Management Form,,
+PEM-EQ-MAINT-008,Maintenance,Forklift,Electric and Fuel,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Forklift (Electric and Fuel) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/forklift-electric-and-fuel-safe-work-procedure-2706
+PEM-EQ-MAINT-009,Maintenance,Forklift,Fuel,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Forklift (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/forklift-fuel-risk-management-form-2705
+PEM-EQ-MAINT-010,Maintenance,Forklift,Fuel,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,,
+PEM-EQ-MAINT-011,Maintenance,Hedge Trimmer,Electric,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Hedge Trimmer (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/hedge-trimmer-electric-risk-management-form-2719
+PEM-EQ-MAINT-012,Maintenance,Hedge Trimmer,Electric,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Hedge Trimmer (Electric) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/hedge-trimmer-electric-safe-work-procedure-2718
+PEM-EQ-MAINT-013,Maintenance,Hedge Trimmer,Fuel,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Hedge Trimmer (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/hedge-trimmer-fuel-risk-management-form-2721
+PEM-EQ-MAINT-014,Maintenance,Hedge Trimmer,Fuel,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,,
+PEM-EQ-MAINT-015,Maintenance,High Pressure Water Cleaner,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,High Pressure Water Cleaner Risk Management Form,https://content.sdp.education.vic.gov.au/media/high-pressure-water-cleaner-risk-management-form-2723
+PEM-EQ-MAINT-016,Maintenance,High Pressure Water Cleaner,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,High Pressure Water Cleaner Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/high-pressure-water-cleaner-safe-work-procedure-2722
+PEM-EQ-MAINT-017,Maintenance,Lawn Mower,Electric,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Lawn Mower (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/lawn-mower-electric-risk-management-form-2736
+PEM-EQ-MAINT-018,Maintenance,Lawn Mower,Electric,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Lawn Mower (Electric) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/lawn-mower-electric-safe-work-procedure-2735
+PEM-EQ-MAINT-019,Maintenance,Lawn Mower,Fuel,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Lawn Mower (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/lawn-mower-fuel-risk-management-form-2738
+PEM-EQ-MAINT-020,Maintenance,Lawn Mower,Fuel,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Lawn Mower (Fuel) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/lawn-mower-fuel-safe-work-procedure-2737
+PEM-EQ-MAINT-021,Maintenance,Leaf Blower,Electric,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Leaf Blower (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/leaf-blower-electric-risk-management-form-2740
+PEM-EQ-MAINT-022,Maintenance,Leaf Blower,Electric,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Leaf Blower (Electric) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/leaf-blower-electric-safe-work-procedure-2739
+PEM-EQ-MAINT-023,Maintenance,Leaf Blower,Fuel,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Leaf Blower (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/leaf-blower-fuel-risk-management-form-2742
+PEM-EQ-MAINT-024,Maintenance,Leaf Blower,Fuel,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Leaf Blower (Fuel) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/leaf-blower-fuel-safe-work-procedure-2741
+PEM-EQ-MAINT-025,Maintenance,Mulcher/Chipper,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,,
+PEM-EQ-MAINT-026,Maintenance,Mulcher/Chipper,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Mulcher/Chipper Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/mulcher/chipper-safe-work-procedure-2759
+PEM-EQ-MAINT-027,Maintenance,Mulcher/Chipper,Electric,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Mulcher/Chipper (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/mulcher/chipper-electric-risk-management-form-2758
+PEM-EQ-MAINT-028,Maintenance,Mulcher/Chipper,Electric,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,,
+PEM-EQ-MAINT-029,Maintenance,Mulcher/Chipper,Fuel,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Mulcher/Chipper (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/mulcher/chipper-fuel-risk-management-form-2760
+PEM-EQ-MAINT-030,Maintenance,Mulcher/Chipper,Fuel,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,,
+PEM-EQ-MAINT-031,Maintenance,Power Lopper,Electric,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Power Lopper (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/power-lopper-electric-risk-management-form-3346
+PEM-EQ-MAINT-032,Maintenance,Power Lopper,Electric,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Power Lopper (Electric) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/power-lopper-electric-safe-work-procedure-2795
+PEM-EQ-MAINT-033,Maintenance,Ride on Lawn Mower,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,,
+PEM-EQ-MAINT-034,Maintenance,Ride on Lawn Mower,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Ride on Lawn Mower Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/ride-on-lawn-mower-safe-work-procedure-2802
+PEM-EQ-MAINT-035,Maintenance,Ride on Lawn Mower,Fuel,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Ride on Lawn Mower (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/ride-on-lawn-mower-fuel-risk-management-form-2803
+PEM-EQ-MAINT-036,Maintenance,Ride on Lawn Mower,Fuel,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,,
+PEM-EQ-MAINT-037,Maintenance,Scissor Lift,Electric,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Scissor Lift (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/scissor-lift-electric-risk-management-form-2822
+PEM-EQ-MAINT-038,Maintenance,Scissor Lift,Electric,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,,
+PEM-EQ-MAINT-039,Maintenance,Scissor Lift,Electric and Fuel,FALSE,PEM-TPL-COMP-001,,Risk Management Form,,
+PEM-EQ-MAINT-040,Maintenance,Scissor Lift,Electric and Fuel,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Scissor Lift (Electric and Fuel) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/scissor-lift-electric-and-fuel-safe-work-procedure-2824
+PEM-EQ-MAINT-041,Maintenance,Scissor Lift,Fuel,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Scissor Lift (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/scissor-lift-fuel-risk-management-form-2823
+PEM-EQ-MAINT-042,Maintenance,Scissor Lift,Fuel,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,,
+PEM-EQ-MAINT-043,Maintenance,Tractor,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Tractor Risk Management Form,https://content.sdp.education.vic.gov.au/media/tractor-risk-management-form-2843
+PEM-EQ-MAINT-044,Maintenance,Tractor,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Tractor Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/tractor-safe-work-procedure-2842
+PEM-EQ-MAINT-045,Maintenance,Vacuum Cleaner,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Vacuum Cleaner Risk Management Form,https://content.sdp.education.vic.gov.au/media/vacuum-cleaner-risk-management-form-2851
+PEM-EQ-MAINT-046,Maintenance,Vacuum Cleaner,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Vacuum Cleaner Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/vacuum-cleaner-safe-work-procedure-2850
+PEM-EQ-MAINT-047,Maintenance,Vacuum Cleaner (Backpack),,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Vacuum Cleaner (Backpack) Risk Management Form,https://content.sdp.education.vic.gov.au/media/vacuum-cleaner-backpack-risk-management-form-2849
+PEM-EQ-MAINT-048,Maintenance,Vacuum Cleaner (Backpack),,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Vacuum Cleaner (Backpack) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/vacuum-cleaner-backpack-safe-work-procedure-2848
+PEM-EQ-MAINT-049,Maintenance,Vacuum Cleaner (Outdoor),,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Vacuum Cleaner (Outdoor) Risk Management Form,https://content.sdp.education.vic.gov.au/media/vacuum-cleaner-outdoor-risk-management-form-2777
+PEM-EQ-MAINT-050,Maintenance,Vacuum Cleaner (Outdoor),,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Vacuum Cleaner (Outdoor) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/vacuum-cleaner-outdoor-safe-work-procedure-2776
+PEM-EQ-MAINT-051,Maintenance,Whipper Snipper,Electric,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Whipper Snipper (Electric) Risk Management Form,https://content.sdp.education.vic.gov.au/media/whipper-snipper-electric-risk-management-form-2864
+PEM-EQ-MAINT-052,Maintenance,Whipper Snipper,Electric,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Whipper Snipper (Electric) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/whipper-snipper-electric-safe-work-procedure-2863
+PEM-EQ-MAINT-053,Maintenance,Whipper Snipper,Fuel,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Whipper Snipper (Fuel) Risk Management Form,https://content.sdp.education.vic.gov.au/media/whipper-snipper-fuel-risk-management-form-2866
+PEM-EQ-MAINT-054,Maintenance,Whipper Snipper,Fuel,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Whipper Snipper (Fuel) Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/whipper-snipper-fuel-safe-work-procedure-2865
+PEM-EQ-CUT-001,Cutting,Bandsaw,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Bandsaw Risk Management Form,https://content.sdp.education.vic.gov.au/media/bandsaw-risk-management-form-2655
+PEM-EQ-CUT-002,Cutting,Bandsaw,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Bandsaw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/bandsaw-safe-work-procedure-2654
+PEM-EQ-CUT-003,Cutting,Bench Shears,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Bench Shears Risk Management Form,https://content.sdp.education.vic.gov.au/media/bench-shears-risk-management-form-2661
+PEM-EQ-CUT-004,Cutting,Bench Shears,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Bench Shears Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/bench-shears-safe-work-procedure-2660
+PEM-EQ-CUT-005,Cutting,Circular Saw – Portable,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Circular Saw – Portable Risk Management Form,https://content.sdp.education.vic.gov.au/media/circular-saw-portable-risk-management-form-2676
+PEM-EQ-CUT-006,Cutting,Circular Saw – Portable,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Circular Saw – Portable Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/circular-saw-portable-safe-work-procedure-2675
+PEM-EQ-CUT-007,Cutting,Cold Metal Drop Saw,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Cold Metal Drop Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/cold-metal-drop-saw-risk-management-form-2683
+PEM-EQ-CUT-008,Cutting,Cold Metal Drop Saw,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Cold Metal Drop Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/cold-metal-drop-saw-safe-work-procedure-2684
+PEM-EQ-CUT-009,Cutting,Drop Saw,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Drop Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/drop-saw-risk-management-form-2696
+PEM-EQ-CUT-010,Cutting,Drop Saw,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Drop Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/drop-saw-safe-work-procedure-2695
+PEM-EQ-CUT-011,Cutting,Guillotine,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Guillotine Risk Management Form,https://content.sdp.education.vic.gov.au/media/guillotine-risk-management-form-2714
+PEM-EQ-CUT-012,Cutting,Guillotine,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Guillotine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/guillotine-safe-work-procedure-2713
+PEM-EQ-CUT-013,Cutting,Jigsaw,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Jigsaw Risk Management Form,https://content.sdp.education.vic.gov.au/media/jigsaw-risk-management-form-2734
+PEM-EQ-CUT-014,Cutting,Jigsaw,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Jigsaw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/jigsaw-safe-work-procedure-2733
+PEM-EQ-CUT-015,Cutting,Metal Cutting Horizontal Bandsaw,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Metal Cutting Horizontal Bandsaw Risk Management Form,https://content.sdp.education.vic.gov.au/media/metal-cutting-horizontal-bandsaw-risk-management-form-2746
+PEM-EQ-CUT-016,Cutting,Metal Cutting Horizontal Bandsaw,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Metal Cutting Horizontal Bandsaw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/metal-cutting-horizontal-bandsaw-safe-work-procedure-2745
+PEM-EQ-CUT-017,Cutting,Portable Nibbler,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Portable Nibbler Risk Management Form,https://content.sdp.education.vic.gov.au/media/portable-nibbler-risk-management-form-2765
+PEM-EQ-CUT-018,Cutting,Portable Nibbler,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Portable Nibbler Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/portable-nibbler-safe-work-procedure-2764
+PEM-EQ-CUT-019,Cutting,Power Hacksaw,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Power Hacksaw Risk Management Form,https://content.sdp.education.vic.gov.au/media/power-hacksaw-risk-management-form-2794
+PEM-EQ-CUT-020,Cutting,Power Hacksaw,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Power Hacksaw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/power-hacksaw-safe-work-procedure-2793
+PEM-EQ-CUT-021,Cutting,Radical Arm Saw,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Radical Arm Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/radical-arm-saw-risk-management-form-2797
+PEM-EQ-CUT-022,Cutting,Radical Arm Saw,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Radical Arm Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/radical-arm-saw-safe-work-procedure-2796
+PEM-EQ-CUT-023,Cutting,Reciprocating Saw,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Reciprocating Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/reciprocating-saw-risk-management-form-2799
+PEM-EQ-CUT-024,Cutting,Reciprocating Saw,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Reciprocating Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/reciprocating-saw-safe-work-procedure-2798
+PEM-EQ-CUT-025,Cutting,"Rip Saw (Table Saw, Bench Saw)",,TRUE,,PEM-TPL-COMP-002,Risk Management Form,"Rip Saw (Table Saw, Bench Saw) Risk Management Form",https://content.sdp.education.vic.gov.au/media/rip-saw-table-saw-bench-saw-risk-management-form-2805
+PEM-EQ-CUT-026,Cutting,"Rip Saw (Table Saw, Bench Saw)",,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,"Rip Saw (Table Saw, Bench Saw) Safe Work Procedure",https://content.sdp.education.vic.gov.au/media/rip-saw-table-saw-bench-saw-safe-work-procedure-2804
+PEM-EQ-CUT-027,Cutting,Scrolling Saw,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Scrolling Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/scrolling-saw-risk-management-form-2826
+PEM-EQ-CUT-028,Cutting,Scrolling Saw,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Scrolling Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/scrolling-saw-safe-work-procedure-2825
+PEM-EQ-CUT-029,Cutting,Tenon Saw,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Tenon Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/tenon-saw-risk-management-form-2838
+PEM-EQ-CUT-030,Cutting,Tenon Saw,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Tenon Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/tenon-saw-safe-work-procedure-2837
+PEM-EQ-CUT-031,Cutting,Vertical Panel Saw,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Vertical Panel Saw Risk Management Form,https://content.sdp.education.vic.gov.au/media/vertical-panel-saw-risk-management-form-2857
+PEM-EQ-CUT-032,Cutting,Vertical Panel Saw,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Vertical Panel Saw Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/vertical-panel-saw-safe-work-procedure-2856
+PEM-EQ-SHAPE-001,Shaping,Angle Grinder,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Angle Grinder Risk Management Form,https://content.sdp.education.vic.gov.au/media/angle-grinder-risk-management-form-2648
+PEM-EQ-SHAPE-002,Shaping,Angle Grinder,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Angle Grinder Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/angle-grinder-safe-work-procedure-2647
+PEM-EQ-SHAPE-003,Shaping,CNC Milling Machine,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,CNC Milling Machine Risk Management Form,https://content.sdp.education.vic.gov.au/media/cnc-milling-machine-risk-management-form-2680
+PEM-EQ-SHAPE-004,Shaping,CNC Milling Machine,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,CNC Milling Machine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/cnc-milling-machine-safe-work-procedure-2679
+PEM-EQ-SHAPE-005,Shaping,CNC Router,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,,
+PEM-EQ-SHAPE-006,Shaping,CNC Router,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,CNC Router Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/cnc-router-safe-work-procedure-2681
+PEM-EQ-SHAPE-007,Shaping,Centrifugal Casting Machine,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Centrifugal Casting Machine Risk Management Form,https://content.sdp.education.vic.gov.au/media/centrifugal-casting-machine-risk-management-form-2669
+PEM-EQ-SHAPE-008,Shaping,Centrifugal Casting Machine,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Centrifugal Casting Machine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/centrifugal-casting-machine-safe-work-procedure-2668
+PEM-EQ-SHAPE-009,Shaping,"Grinder, Bench and Pedestal",,TRUE,,PEM-TPL-COMP-002,Risk Management Form,"Grinder, Bench and Pedestal Risk Management Form",https://content.sdp.education.vic.gov.au/media/grinder-bench-and-pedestal-risk-management-form-2712
+PEM-EQ-SHAPE-010,Shaping,"Grinder, Bench and Pedestal",,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,"Grinder, Bench and Pedestal Safe Work Procedure",https://content.sdp.education.vic.gov.au/media/grinder-bench-and-pedestal-safe-work-procedure-2711
+PEM-EQ-SHAPE-011,Shaping,Hydraulic Press,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Hydraulic Press Risk Management Form,https://content.sdp.education.vic.gov.au/media/hydraulic-press-risk-management-form-2730
+PEM-EQ-SHAPE-012,Shaping,Hydraulic Press,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Hydraulic Press Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/hydraulic-press-safe-work-procedure-2729
+PEM-EQ-SHAPE-013,Shaping,Metal Lathe,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Metal Lathe Risk Management Form,https://content.sdp.education.vic.gov.au/media/metal-lathe-risk-management-form-2748
+PEM-EQ-SHAPE-014,Shaping,Metal Lathe,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Metal Lathe Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/metal-lathe-safe-work-procedure-2747
+PEM-EQ-SHAPE-015,Shaping,Metal Rolling Machine,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Metal Rolling Machine Risk Management Form,https://content.sdp.education.vic.gov.au/media/metal-rolling-machine-risk-management-form-2752
+PEM-EQ-SHAPE-016,Shaping,Metal Rolling Machine,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Metal Rolling Machine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/metal-rolling-machine-safe-work-procedure-2751
+PEM-EQ-SHAPE-017,Shaping,Milling Machine,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Milling Machine Risk Management Form,https://content.sdp.education.vic.gov.au/media/milling-machine-risk-management-form-2750
+PEM-EQ-SHAPE-018,Shaping,Milling Machine,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Milling Machine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/milling-machine-safe-work-procedure-2749
+PEM-EQ-SHAPE-019,Shaping,Plastic Strip Heater,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Plastic Strip Heater Risk Management Form,https://content.sdp.education.vic.gov.au/media/plastic-strip-heater-risk-management-form-2789
+PEM-EQ-SHAPE-020,Shaping,Plastic Strip Heater,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Plastic Strip Heater Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/plastic-strip-heater-safe-work-procedure-2788
+PEM-EQ-SHAPE-021,Shaping,Router – Plunge,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Router – Plunge Risk Management Form,https://content.sdp.education.vic.gov.au/media/router-plunge-risk-management-form-2809
+PEM-EQ-SHAPE-022,Shaping,Router – Plunge,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Router – Plunge Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/router-plunge-safe-work-procedure-2808
+PEM-EQ-SHAPE-023,Shaping,Router – Table Mounted,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Router – Table Mounted Risk Management Form,https://content.sdp.education.vic.gov.au/media/router-table-mounted-risk-management-form-2811
+PEM-EQ-SHAPE-024,Shaping,Router – Table Mounted,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Router – Table Mounted Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/router-table-mounted-safe-work-procedure-2810
+PEM-EQ-SHAPE-025,Shaping,Swaging Machine,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Swaging Machine Risk Management Form,https://content.sdp.education.vic.gov.au/media/swaging-machine-risk-management-form-2834
+PEM-EQ-SHAPE-026,Shaping,Swaging Machine,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Swaging Machine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/swaging-machine-safe-work-procedure-2833
+PEM-EQ-SHAPE-027,Shaping,Thicknesser,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Thicknesser Risk Management Form,https://content.sdp.education.vic.gov.au/media/thicknesser-risk-management-form-2841
+PEM-EQ-SHAPE-028,Shaping,Thicknesser,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Thicknesser Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/thicknesser-safe-work-procedure-2840
+PEM-EQ-SHAPE-029,Shaping,Vacuum Former,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Vacuum Former Risk Management Form,https://content.sdp.education.vic.gov.au/media/vacuum-former-risk-management-form-2853
+PEM-EQ-SHAPE-030,Shaping,Vacuum Former,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Vacuum Former Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/vacuum-former-safe-work-procedure-2852
+PEM-EQ-SHAPE-031,Shaping,Wood Engraver – Portable,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Wood Engraver – Portable Risk Management Form,https://content.sdp.education.vic.gov.au/media/wood-engraver-portable-risk-management-form-2868
+PEM-EQ-SHAPE-032,Shaping,Wood Engraver – Portable,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Wood Engraver – Portable Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/wood-engraver-portable-safe-work-procedure-2867
+PEM-EQ-SHAPE-033,Shaping,Wood Lathe,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Wood Lathe Risk Management Form,https://content.sdp.education.vic.gov.au/media/wood-lathe-risk-management-form-2870
+PEM-EQ-SHAPE-034,Shaping,Wood Lathe,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Wood Lathe Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/wood-lathe-safe-work-procedure-2869
+PEM-EQ-JOIN-001,Joining,Arc Welder,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Arc Welder Risk Management Form,https://content.sdp.education.vic.gov.au/media/arc-welder-risk-management-form-2650
+PEM-EQ-JOIN-002,Joining,Arc Welder,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Arc Welder Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/arc-welder-safe-work-procedure-2649
+PEM-EQ-JOIN-003,Joining,Biscuit Joiner,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Biscuit Joiner Risk Management Form,https://content.sdp.education.vic.gov.au/media/biscuit-joiner-risk-management-form-2663
+PEM-EQ-JOIN-004,Joining,Biscuit Joiner,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Biscuit Joiner Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/biscuit-joiner-safe-work-procedure-2662
+PEM-EQ-JOIN-005,Joining,Dowelling Machine,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Dowelling Machine Risk Management Form,https://content.sdp.education.vic.gov.au/media/dowelling-machine-risk-management-form-2692
+PEM-EQ-JOIN-006,Joining,Dowelling Machine,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Dowelling Machine Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/dowelling-machine-safe-work-procedure-2691
+PEM-EQ-JOIN-007,Joining,Drill Press,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Drill Press Risk Management Form,https://content.sdp.education.vic.gov.au/media/drill-press-risk-management-form-2694
+PEM-EQ-JOIN-008,Joining,Drill Press,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Drill Press Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/drill-press-safe-work-procedure-2693
+PEM-EQ-JOIN-009,Joining,Gas Torch,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Gas Torch Risk Management Form,https://content.sdp.education.vic.gov.au/media/gas-torch-risk-management-form-2708
+PEM-EQ-JOIN-010,Joining,Gas Torch,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Gas Torch Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/gas-torch-safe-work-procedure-2707
+PEM-EQ-JOIN-011,Joining,Horizontal Borer,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Horizontal Borer Risk Management Form,https://content.sdp.education.vic.gov.au/media/horizontal-borer-risk-management-form-2725
+PEM-EQ-JOIN-012,Joining,Horizontal Borer,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Horizontal Borer Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/horizontal-borer-safe-work-procedure-2724
+PEM-EQ-JOIN-013,Joining,MIG Welding,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,MIG Welding Risk Management Form,https://content.sdp.education.vic.gov.au/media/mig-welding-risk-management-form-2754
+PEM-EQ-JOIN-014,Joining,MIG Welding,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,MIG Welding Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/mig-welding-safe-work-procedure-2753
+PEM-EQ-JOIN-015,Joining,Mortiser,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Mortiser Risk Management Form,https://content.sdp.education.vic.gov.au/media/mortiser-risk-management-form-2756
+PEM-EQ-JOIN-016,Joining,Mortiser,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Mortiser Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/mortiser-safe-work-procedure-2755
+PEM-EQ-JOIN-017,Joining,Nail Gun,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Nail Gun Risk Management Form,https://content.sdp.education.vic.gov.au/media/nail-gun-risk-management-form-2763
+PEM-EQ-JOIN-018,Joining,Nail Gun,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Nail Gun Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/nail-gun-safe-work-procedure-2762
+PEM-EQ-JOIN-019,Joining,Oxy-acetylene Equipment,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Oxy-acetylene Equipment Risk Management Form,https://content.sdp.education.vic.gov.au/media/oxy-acetylene-equipment-risk-management-form-2780
+PEM-EQ-JOIN-020,Joining,Oxy-acetylene Equipment,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Oxy-acetylene Equipment Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/oxy-acetylene-equipment-safe-work-procedure-2779
+PEM-EQ-JOIN-021,Joining,Power Drill,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Power Drill Risk Management Form,https://content.sdp.education.vic.gov.au/media/power-drill-risk-management-form-2792
+PEM-EQ-JOIN-022,Joining,Power Drill,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Power Drill Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/power-drill-safe-work-procedure-2791
+PEM-EQ-JOIN-023,Joining,Spot Welder,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Spot Welder Risk Management Form,https://content.sdp.education.vic.gov.au/media/spot-welder-risk-management-form-2831
+PEM-EQ-JOIN-024,Joining,Spot Welder,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Spot Welder Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/spot-welder-safe-work-procedure-2829
+PEM-EQ-FINISH-001,Finishing,Belt Sander,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Belt Sander Risk Management Form,https://content.sdp.education.vic.gov.au/media/belt-sander-risk-management-form-2659
+PEM-EQ-FINISH-002,Finishing,Belt Sander,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Belt Sander Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/belt-sander-safe-work-procedure-2658
+PEM-EQ-FINISH-003,Finishing,Bobbin Sander,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Bobbin Sander Risk Management Form,https://content.sdp.education.vic.gov.au/media/bobbin-sander-risk-management-form-2665
+PEM-EQ-FINISH-004,Finishing,Bobbin Sander,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Bobbin Sander Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/bobbin-sander-safe-work-procedure-2664
+PEM-EQ-FINISH-005,Finishing,Disc Sander,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Disc Sander Risk Management Form,https://content.sdp.education.vic.gov.au/media/disc-sander-risk-management-form-2690
+PEM-EQ-FINISH-006,Finishing,Disc Sander,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Disc Sander Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/disc-sander-safe-work-procedure-2689
+PEM-EQ-FINISH-007,Finishing,Electric Kiln,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Electric Kiln Risk Management Form,https://content.sdp.education.vic.gov.au/media/electric-kiln-risk-management-form-2698
+PEM-EQ-FINISH-008,Finishing,Electric Kiln,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Electric Kiln Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/electric-kiln-safe-work-procedure-2697
+PEM-EQ-FINISH-009,Finishing,Orbital Sander,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Orbital Sander Risk Management Form,https://content.sdp.education.vic.gov.au/media/orbital-sander-risk-management-form-2775
+PEM-EQ-FINISH-010,Finishing,Orbital Sander,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Orbital Sander Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/orbital-sander-safe-work-procedure-2774
+PEM-EQ-FINISH-011,Finishing,Planer – Electric Hand Held,,TRUE,,PEM-TPL-COMP-002,Risk Management Form,Planer – Electric Hand Held Risk Management Form,https://content.sdp.education.vic.gov.au/media/planer-electric-hand-held-risk-management-form-2784
+PEM-EQ-FINISH-012,Finishing,Planer – Electric Hand Held,,TRUE,,PEM-TPL-COMP-002,Safe Work Procedure,Planer – Electric Hand Held Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/planer-electric-hand-held-safe-work-procedure-2783
+PEM-EQ-MISC-001,Miscellaneous,Air Compressor,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Air Compressor Risk Management Form,https://content.sdp.education.vic.gov.au/media/air-compressor-risk-management-form-2646
+PEM-EQ-MISC-002,Miscellaneous,Air Compressor,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Air Compressor Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/air-compressor-safe-work-procedure-2645
+PEM-EQ-MISC-003,Miscellaneous,Automotive Parts Washer,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Automotive Parts Washer Risk Management Form,https://content.sdp.education.vic.gov.au/media/automotive-parts-washer-risk-management-form-2653
+PEM-EQ-MISC-004,Miscellaneous,Automotive Parts Washer,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Automotive Parts Washer Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/automotive-parts-washer-safe-work-procedure-2652
+PEM-EQ-MISC-005,Miscellaneous,Battery Charger,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Battery Charger Risk Management Form,https://content.sdp.education.vic.gov.au/media/battery-charger-risk-management-form-2657
+PEM-EQ-MISC-006,Miscellaneous,Battery Charger,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Battery Charger Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/battery-charger-safe-work-procedure-2656
+PEM-EQ-MISC-007,Miscellaneous,Bunsen and Meker Burners,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Bunsen and Meker Burners Risk Management Form,https://content.sdp.education.vic.gov.au/media/bunsen-and-meker-burners-risk-management-form-2667
+PEM-EQ-MISC-008,Miscellaneous,Bunsen and Meker Burners,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Bunsen and Meker Burners Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/bunsen-and-meker-burners-safe-work-procedure-2666
+PEM-EQ-MISC-009,Miscellaneous,Heat Gun,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Heat Gun Risk Management Form,https://content.sdp.education.vic.gov.au/media/heat-gun-risk-management-form-2717
+PEM-EQ-MISC-010,Miscellaneous,Heat Gun,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Heat Gun Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/heat-gun-safe-work-procedure-2716
+PEM-EQ-MISC-011,Miscellaneous,Human Powered Vehicles,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Human Powered Vehicles Risk Management Form,https://content.sdp.education.vic.gov.au/media/human-powered-vehicles-risk-management-form-2727
+PEM-EQ-MISC-012,Miscellaneous,Human Powered Vehicles,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Human Powered Vehicles Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/human-powered-vehicles-safe-work-procedure-2728
+PEM-EQ-MISC-013,Miscellaneous,LP-Gas BBQ,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,LP-Gas BBQ Risk Management Form,https://content.sdp.education.vic.gov.au/media/lp-gas-bbq-risk-management-form-2744
+PEM-EQ-MISC-014,Miscellaneous,LP-Gas BBQ,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,LP-Gas BBQ Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/lp-gas-bbq-safe-work-procedure-2743
+PEM-EQ-MISC-015,Miscellaneous,Tyre Changer,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Tyre Changer Risk Management Form,https://content.sdp.education.vic.gov.au/media/tyre-changer-risk-management-form-2846
+PEM-EQ-MISC-016,Miscellaneous,Tyre Changer,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Tyre Changer Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/tyre-changer-safe-work-procedure-2845
+PEM-EQ-MISC-017,Miscellaneous,Vehicle Jack,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Vehicle Jack Risk Management Form,https://content.sdp.education.vic.gov.au/media/vehicle-jack-risk-management-form-2855
+PEM-EQ-MISC-018,Miscellaneous,Vehicle Jack,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Vehicle Jack Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/vehicle-jack-risk-management-form-2854
+PEM-EQ-MISC-019,Miscellaneous,Wheelchair,,FALSE,PEM-TPL-COMP-001,,Risk Management Form,Wheelchair Risk Management Form,https://content.sdp.education.vic.gov.au/media/wheelchair-risk-management-form-2862
+PEM-EQ-MISC-020,Miscellaneous,Wheelchair,,FALSE,PEM-TPL-COMP-001,,Safe Work Procedure,Wheelchair Safe Work Procedure,https://content.sdp.education.vic.gov.au/media/wheelchair-safe-work-procedure-2861
