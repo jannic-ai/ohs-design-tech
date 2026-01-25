@@ -1,0 +1,28 @@
+EquipmentCode,DocumentCategory,DocumentSubCategory,HeaderDescription,TrueFalseIndicator,Comments,Sequence
+PEM-EQ-SHAPE-010,HEADER,,Description of Work:,,,1
+PEM-EQ-SHAPE-010,HEADER,,,,Using a Grinder (bench of pedestal),2
+PEM-EQ-SHAPE-010,HAZARD_SUMMARY,,Potential Hazards:,,,1
+PEM-EQ-SHAPE-010,HAZARD_SUMMARY,,,,"Exposed moving parts and electrical hazard with the potential to cause harm through entanglement, impact and cutting, exposure to heat, noise, projectiles, sharp objects, friction and sparks.",2
+PEM-EQ-SHAPE-010,PPE,,Personal Protective Equipment (PPE) Required (Check the box for required PPE),,,1
+PEM-EQ-SHAPE-010,PPE,,,FALSE,Gloves,2
+PEM-EQ-SHAPE-010,PPE,,,FALSE,Face Masks,3
+PEM-EQ-SHAPE-010,PPE,,,TRUE,Eye Protection,4
+PEM-EQ-SHAPE-010,PPE,,,FALSE,Welding Mask,5
+PEM-EQ-SHAPE-010,PPE,,,TRUE,Appropriate Footwear,6
+PEM-EQ-SHAPE-010,PPE,,,TRUE,Hearing Protection,7
+PEM-EQ-SHAPE-010,PPE,,,TRUE,Protective Clothing,8
+PEM-EQ-SHAPE-010,SWP,,Safe Work Procedure Checklist:,,,1
+PEM-EQ-SHAPE-010,PROCEDURE,PRE,PRE-Operation/Task:,,,1
+PEM-EQ-SHAPE-010,PROCEDURE,PRE,,,"Task (e.g. Drawings, instructions, specifications etc.) is clearly understood.",2
+PEM-EQ-SHAPE-010,PROCEDURE,PRE,,,"Ensure the appropriate wheel is installed, in good condition and correctly in place.",3
+PEM-EQ-SHAPE-010,PROCEDURE,PRE,,,Ensure appropriate guarding is in place and in good working order.,4
+PEM-EQ-SHAPE-010,PROCEDURE,PRE,,,Identify ON/OFF switch and emergency stop button (if applicable).,5
+PEM-EQ-SHAPE-010,PROCEDURE,OPERATION,Operation/Task:,,,1
+PEM-EQ-SHAPE-010,PROCEDURE,OPERATION,,,Check that the wheel runs ‘true’ and does not wobble.,2
+PEM-EQ-SHAPE-010,PROCEDURE,OPERATION,,,Keep hands clear of work piece and away from disk.,3
+PEM-EQ-SHAPE-010,PROCEDURE,OPERATION,,,Turn off machine at power point before changing the disk.,4
+PEM-EQ-SHAPE-010,PROCEDURE,OPERATION,,,Ensure guarding is in place before re-starting machine.,5
+PEM-EQ-SHAPE-010,PROCEDURE,OPERATION,,,"Ensure grinder is isolated from power sources before being cleaned, adjusted, maintained or repaired.",6
+PEM-EQ-SHAPE-010,PROCEDURE,POST,POST-Operation/Task:,,,1
+PEM-EQ-SHAPE-010,PROCEDURE,POST,,,Switch off grinder before removing waste material from the bench.,2
+PEM-EQ-SHAPE-010,PROCEDURE,POST,,,Ensure disk is still in good condition after use.,3
